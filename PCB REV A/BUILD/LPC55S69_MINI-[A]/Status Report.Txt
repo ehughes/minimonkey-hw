@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [LPC55S69_MINI.PCBdoc]
+   Generated File[LPC55S69_MINI-[A]-RoundHoles.TXT]
+   Generated File[LPC55S69_MINI-[A]-SlotHoles.TXT]
+   Generated File[LPC55S69_MINI-[A].LDP]
+   Generated File[LPC55S69_MINI-[A].DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 5:31:19 PM On 4/20/2020

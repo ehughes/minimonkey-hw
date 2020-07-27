@@ -1,29 +1,39 @@
-# README #
+# Mini Monkey - Hardware #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This repo has the PCB design data for the Mini-Monkey that is based upon the LPC55S69 in a VFBGA98 package.     Each PCB revision is in its own folder.  I typically always keep copies of all revisions in one repo so I can have access to multiple CCA versions at one time (instead of branches for each PCB/CCA).   Branches are used for development and merged into master when boards are sent out.
 
-### What is this repository for? ###
+The Mini-Monkey is in a prototype state.   Use at your own risk.
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+### Latest Revision - Navigation ###
 
-### How do I get set up? ###
+The latest revision is PCB Rev B. This is the version used for the blog articles, etc.   
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+You can find PDF schematics under  "PCB REV B/SCHEMATICS"
+There are assembly drawings, etc in PDF format under "PCB REV B\BUILD\LPC55S69_MINI-[B]"
 
-### Contribution guidelines ###
+The design files are in Altium v20 format.
 
-* Writing tests
-* Code review
-* Other guidelines
+#### Future Plans:
 
-### Who do I talk to? ###
+- Add SD/eMMC Storage
+- Potentially Battery/Charging circuity (considering an external add-on)
 
-* Repo owner or admin
-* Other community or team contact
+### History/Notes
+
+#### PCB REV B:
+
+- Switched to using USB1 as the ROM bootloader is easier to use out of the box
+- Fixed RST connection issue from REV A.
+- There is now UART connections to the IO Pins.  Using the UART that also always for ISP Boot.
+- Move the RST button to make ISP entry easier for humans
+- Added some test points.
+
+*Note:  there are still some issues with the battery/charger on REV B.  See the "bug" on the schematics.    It is usable but will be improved in the future.*
+
+
+#### PCB Rev A:
+
+- Included for historical purposes.  This is just an assembly test run @ MacroFab.  
+
+
+

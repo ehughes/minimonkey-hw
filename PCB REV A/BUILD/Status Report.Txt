@@ -1,0 +1,13 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 5:31:09 PM On 4/20/2020
+
+Output: MACROFAB BOM
+Type  : BOM
+From  : Variant [A] of BOM Document [LPC55S69_MINI.BomDoc]
+
+
+Files Generated   : 0
+Documents Printed : 0
+
+Finished Output Generation At 5:31:12 PM On 4/20/2020
