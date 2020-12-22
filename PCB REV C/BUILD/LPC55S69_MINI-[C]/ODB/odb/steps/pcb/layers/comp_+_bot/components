@@ -1,0 +1,141 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 13 -0.050929 0.351 90 N BTN3 B3U-1100P ;0=1,1=0.0472
+PRP Actuator_Height_off_PCB__from_Pins '1.60mm'
+PRP Actuator_Material '-'
+PRP Actuator_Orientation 'Top Actuated'
+PRP Actuator_Type 'Standard'
+PRP Category 'Switches'
+PRP CategorySort '700'
+PRP Circuit 'SPST-NO'
+PRP ComponentLink1Description 'http://www.components.omron.com/components/web/PDFLIB.nsf/0/2DD3893C7DD33E9E862572900079E9D6/$file/B3U_1110.pdf'
+PRP ComponentLink1URL 'http://www.components.omron.com/components/web/PDFLIB.nsf/0/2DD3893C7DD33E9E862572900079E9D6/$file/B3U_1110.pdf'
+PRP Contact_Rating_@_Voltage '0.05A @ 12VDC'
+PRP Features 'Grounding Pin'
+PRP Illumination 'Non-Illuminated'
+PRP Illumination_Type__Color '-'
+PRP Illumination_Voltage_(Nominal) '-'
+PRP Ingress_Protection 'Dust Proof'
+PRP Manufacturer 'Omron Electronics Inc-EMC Div'
+PRP Manufacturer_Part_Number 'B3U-1100P'
+PRP Mechanical_Life '200,000 Cycles'
+PRP Mounting_Type 'Surface Mount'
+PRP Operating_Force '153gf'
+PRP Operating_Temperature '-25°C ~ 70°C'
+PRP Outline '3.00mm x 2.50mm'
+PRP Packaging 'Cut Tape (CT)'
+PRP Pricing_1 '1=1.25, 10=1.201, 25=1.1332, 50=0.997, 100=0.9064, 250=0.86108, 500=0.83842, 1000=0.65714 (USD)'
+PRP RoHS 'RoHS Compliant'
+PRP Sort_Value ''
+PRP Stock_1 '45170'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'SW1021CT-ND'
+PRP Switch_Function 'Off-Mom'
+PRP Switch_Travel '0.15mm'
+PRP Termination_Style 'SMD (SMT) Tab'
+PRP Value 'B3U-1100P'
+TOP 0 -0.050929 0.4179291 0 N 60 6 BTN3-1
+TOP 1 -0.050929 0.2840709 0 N 34 0 BTN3-2
+TOP 2 0.0140316 0.351 0 N 60 7 BTN3-S
+#
+# CMP 1
+CMP 13 -0.058 1.138 90 N BTN1 B3U-1100P ;0=1,1=0.0472
+PRP Actuator_Height_off_PCB__from_Pins '1.60mm'
+PRP Actuator_Material '-'
+PRP Actuator_Orientation 'Top Actuated'
+PRP Actuator_Type 'Standard'
+PRP Category 'Switches'
+PRP CategorySort '700'
+PRP Circuit 'SPST-NO'
+PRP ComponentLink1Description 'http://www.components.omron.com/components/web/PDFLIB.nsf/0/2DD3893C7DD33E9E862572900079E9D6/$file/B3U_1110.pdf'
+PRP ComponentLink1URL 'http://www.components.omron.com/components/web/PDFLIB.nsf/0/2DD3893C7DD33E9E862572900079E9D6/$file/B3U_1110.pdf'
+PRP Contact_Rating_@_Voltage '0.05A @ 12VDC'
+PRP Features 'Grounding Pin'
+PRP Illumination 'Non-Illuminated'
+PRP Illumination_Type__Color '-'
+PRP Illumination_Voltage_(Nominal) '-'
+PRP Ingress_Protection 'Dust Proof'
+PRP Manufacturer 'Omron Electronics Inc-EMC Div'
+PRP Manufacturer_Part_Number 'B3U-1100P'
+PRP Mechanical_Life '200,000 Cycles'
+PRP Mounting_Type 'Surface Mount'
+PRP Operating_Force '153gf'
+PRP Operating_Temperature '-25°C ~ 70°C'
+PRP Outline '3.00mm x 2.50mm'
+PRP Packaging 'Cut Tape (CT)'
+PRP Pricing_1 '1=1.25, 10=1.201, 25=1.1332, 50=0.997, 100=0.9064, 250=0.86108, 500=0.83842, 1000=0.65714 (USD)'
+PRP RoHS 'RoHS Compliant'
+PRP Sort_Value ''
+PRP Stock_1 '45170'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'SW1021CT-ND'
+PRP Switch_Function 'Off-Mom'
+PRP Switch_Travel '0.15mm'
+PRP Termination_Style 'SMD (SMT) Tab'
+PRP Value 'B3U-1100P'
+TOP 0 -0.058 1.2049291 0 N 60 3 BTN1-1
+TOP 1 -0.058 1.0710709 0 N 39 0 BTN1-2
+TOP 2 0.0069606 1.138 0 N 60 2 BTN1-S
+#
+# CMP 2
+CMP 11 0.7133073 0.45011 0 N U3 ER-TFT1.54-1 ;0=1,1=0.0000
+PRP Manufacturer 'Buy Display'
+PRP Manufacturer_Part_Number 'ER-TFT1.54-1'
+PRP Value 'ER-TFT1.54-1'
+TOP 0 0.5617324 0.4501101 180 N 60 8 U3-1
+TOP 1 0.5892915 0.4501101 180 N 25 0 U3-2
+TOP 2 0.6168505 0.4501101 180 N 63 1 U3-3
+TOP 3 0.6444096 0.4501101 180 N 63 2 U3-4
+TOP 4 0.6719686 0.4501101 180 N 60 9 U3-5
+TOP 5 0.6995277 0.4501101 180 N 60 10 U3-6
+TOP 6 0.7270867 0.4501101 180 N 48 0 U3-7
+TOP 7 0.7546458 0.4501101 180 N 46 0 U3-8
+TOP 8 0.7822048 0.4501101 180 N 44 0 U3-9
+TOP 9 0.8097639 0.4501101 180 N 45 0 U3-10
+TOP 10 0.837323 0.4501101 180 N 47 0 U3-11
+TOP 11 0.864882 0.4501101 180 N 60 11 U3-12
+#
+# CMP 3
+CMP 13 -0.058 0.747 90 N BTN2 B3U-1100P ;0=1,1=0.0472
+PRP Actuator_Height_off_PCB__from_Pins '1.60mm'
+PRP Actuator_Material '-'
+PRP Actuator_Orientation 'Top Actuated'
+PRP Actuator_Type 'Standard'
+PRP Category 'Switches'
+PRP CategorySort '700'
+PRP Circuit 'SPST-NO'
+PRP ComponentLink1Description 'http://www.components.omron.com/components/web/PDFLIB.nsf/0/2DD3893C7DD33E9E862572900079E9D6/$file/B3U_1110.pdf'
+PRP ComponentLink1URL 'http://www.components.omron.com/components/web/PDFLIB.nsf/0/2DD3893C7DD33E9E862572900079E9D6/$file/B3U_1110.pdf'
+PRP Contact_Rating_@_Voltage '0.05A @ 12VDC'
+PRP Features 'Grounding Pin'
+PRP Illumination 'Non-Illuminated'
+PRP Illumination_Type__Color '-'
+PRP Illumination_Voltage_(Nominal) '-'
+PRP Ingress_Protection 'Dust Proof'
+PRP Manufacturer 'Omron Electronics Inc-EMC Div'
+PRP Manufacturer_Part_Number 'B3U-1100P'
+PRP Mechanical_Life '200,000 Cycles'
+PRP Mounting_Type 'Surface Mount'
+PRP Operating_Force '153gf'
+PRP Operating_Temperature '-25°C ~ 70°C'
+PRP Outline '3.00mm x 2.50mm'
+PRP Packaging 'Cut Tape (CT)'
+PRP Pricing_1 '1=1.25, 10=1.201, 25=1.1332, 50=0.997, 100=0.9064, 250=0.86108, 500=0.83842, 1000=0.65714 (USD)'
+PRP RoHS 'RoHS Compliant'
+PRP Sort_Value ''
+PRP Stock_1 '45170'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'SW1021CT-ND'
+PRP Switch_Function 'Off-Mom'
+PRP Switch_Travel '0.15mm'
+PRP Termination_Style 'SMD (SMT) Tab'
+PRP Value 'B3U-1100P'
+TOP 0 -0.058 0.8139291 0 N 60 5 BTN2-1
+TOP 1 -0.058 0.6800709 0 N 35 0 BTN2-2
+TOP 2 0.0069606 0.747 0 N 60 4 BTN2-S
+#

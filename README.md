@@ -6,19 +6,19 @@ The Mini-Monkey is in a prototype state.   Use at your own risk.
 
 ### Latest Revision - Navigation ###
 
-The latest revision is PCB Rev B. This is the version used for the blog articles, etc.   
-
-You can find PDF schematics under  "PCB REV B/SCHEMATICS"
-There are assembly drawings, etc in PDF format under "PCB REV B\BUILD\LPC55S69_MINI-[B]"
+The latest revision is PCB Rev C. 
 
 The design files are in Altium v20 format.
 
-#### Future Plans:
-
-- Add SD/eMMC Storage
-- Potentially Battery/Charging circuity (considering an external add-on)
-
 ### History/Notes
+
+#### PCB REV C:
+
+- Added SD/eMMC Storage
+- Fixed battery charger and added USB bypass.
+- Accidentally used p-ch on backlight control.  Need to fix in future revision.
+
+
 
 #### PCB REV B:
 

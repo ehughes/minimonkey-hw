@@ -1,0 +1,1769 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 14 0.475 0.457 90 N R10 1k ;0=1,1=0.0157
+PRP Assembly_Notes ''
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'Internal Datasheet'
+PRP ComponentLink1URL 'datasheets\Panasonic Electronic Components\AOA0000CE2.pdf'
+PRP ComponentLink2Description 'External Datasheet'
+PRP ComponentLink2URL 'http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE2.pdf'
+PRP Composition 'Thick Film'
+PRP Features '-'
+PRP Height '0.40MM'
+PRP Limiting_Element_Voltage '50'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-2RKF1001X'
+PRP Maximum_Overload_Voltage '100'
+PRP Maximum_Working_Voltage '10.0V'
+PRP Number_of_Terminations '2'
+PRP Package '0402 (1005 Metric)'
+PRP Package_Power '0402  (0.1W)'
+PRP Packaging 'Cut Tape (CT)'
+PRP Power_(Watts) '0.1W- 1/10W'
+PRP Ratings 'AEC-Q200'
+PRP Resistance_(Ohms) '1k'
+PRP Size_/_Dimension '0.039_ L x 0.020_ W (1.00mm x 0.50mm)'
+PRP Sort_Value '1000'
+PRP Sort_Value_Package '402_1000'
+PRP Substitution_Notes '1k , ±1% , 0402 , AEC-Q200'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Package '0402'
+PRP Supplier_Part_Number_1 'P1.00KLCT-ND'
+PRP Temperature_Coefficient '±100ppm/°C'
+PRP Tolerance '±1%'
+PRP Value '1k'
+TOP 0 0.475 0.476685 0 N 63 26 R10-1
+TOP 1 0.475 0.4373149 0 N 4 2 R10-2
+#
+# CMP 1
+CMP 14 0.519 0.458 90 N R9 1k ;0=1,1=0.0157
+PRP Assembly_Notes ''
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'Internal Datasheet'
+PRP ComponentLink1URL 'datasheets\Panasonic Electronic Components\AOA0000CE2.pdf'
+PRP ComponentLink2Description 'External Datasheet'
+PRP ComponentLink2URL 'http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE2.pdf'
+PRP Composition 'Thick Film'
+PRP Features '-'
+PRP Height '0.40MM'
+PRP Limiting_Element_Voltage '50'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-2RKF1001X'
+PRP Maximum_Overload_Voltage '100'
+PRP Maximum_Working_Voltage '10.0V'
+PRP Number_of_Terminations '2'
+PRP Package '0402 (1005 Metric)'
+PRP Package_Power '0402  (0.1W)'
+PRP Packaging 'Cut Tape (CT)'
+PRP Power_(Watts) '0.1W- 1/10W'
+PRP Ratings 'AEC-Q200'
+PRP Resistance_(Ohms) '1k'
+PRP Size_/_Dimension '0.039_ L x 0.020_ W (1.00mm x 0.50mm)'
+PRP Sort_Value '1000'
+PRP Sort_Value_Package '402_1000'
+PRP Substitution_Notes '1k , ±1% , 0402 , AEC-Q200'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Package '0402'
+PRP Supplier_Part_Number_1 'P1.00KLCT-ND'
+PRP Temperature_Coefficient '±100ppm/°C'
+PRP Tolerance '±1%'
+PRP Value '1k'
+TOP 0 0.519 0.477685 0 N 60 70 R9-1
+TOP 1 0.519 0.4383149 0 N 3 2 R9-2
+#
+# CMP 2
+CMP 14 0.8943149 1.093 180 N R6 33 ;0=1,1=0.0157
+PRP Assembly_Notes ''
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'Internal Datasheet'
+PRP ComponentLink1URL 'datasheets\Panasonic Electronic Components\AOA0000CE2.pdf'
+PRP ComponentLink2Description 'External Datasheet'
+PRP ComponentLink2URL 'http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE2.pdf'
+PRP Composition 'Thick Film'
+PRP Features '-'
+PRP Height '0.40MM'
+PRP Limiting_Element_Voltage '50'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-2RKF33R0X'
+PRP Maximum_Overload_Voltage '100'
+PRP Maximum_Working_Voltage '1.8V'
+PRP Number_of_Terminations '2'
+PRP Package '0402 (1005 Metric)'
+PRP Package_Power '0402  (0.1W)'
+PRP Packaging 'Cut Tape (CT)'
+PRP Power_(Watts) '0.1W- 1/10W'
+PRP Ratings 'AEC-Q200'
+PRP Resistance_(Ohms) '33'
+PRP Size_/_Dimension '0.039_ L x 0.020_ W (1.00mm x 0.50mm)'
+PRP Sort_Value '33'
+PRP Sort_Value_Package '402_33'
+PRP Substitution_Notes '33 , ±1% , 0402 , AEC-Q200'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Package '0402'
+PRP Supplier_Part_Number_1 'P33.0LCT-ND'
+PRP Temperature_Coefficient '±100ppm/°C'
+PRP Tolerance '±1%'
+PRP Value '33'
+TOP 0 0.9139999 1.093 90 N 61 2 R6-1
+TOP 1 0.8746298 1.093 90 N 55 1 R6-2
+#
+# CMP 3
+CMP 14 0.8943149 1.0565276 180 N R5 33 ;0=1,1=0.0157
+PRP Assembly_Notes ''
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'Internal Datasheet'
+PRP ComponentLink1URL 'datasheets\Panasonic Electronic Components\AOA0000CE2.pdf'
+PRP ComponentLink2Description 'External Datasheet'
+PRP ComponentLink2URL 'http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE2.pdf'
+PRP Composition 'Thick Film'
+PRP Features '-'
+PRP Height '0.40MM'
+PRP Limiting_Element_Voltage '50'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-2RKF33R0X'
+PRP Maximum_Overload_Voltage '100'
+PRP Maximum_Working_Voltage '1.8V'
+PRP Number_of_Terminations '2'
+PRP Package '0402 (1005 Metric)'
+PRP Package_Power '0402  (0.1W)'
+PRP Packaging 'Cut Tape (CT)'
+PRP Power_(Watts) '0.1W- 1/10W'
+PRP Ratings 'AEC-Q200'
+PRP Resistance_(Ohms) '33'
+PRP Size_/_Dimension '0.039_ L x 0.020_ W (1.00mm x 0.50mm)'
+PRP Sort_Value '33'
+PRP Sort_Value_Package '402_33'
+PRP Substitution_Notes '33 , ±1% , 0402 , AEC-Q200'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Package '0402'
+PRP Supplier_Part_Number_1 'P33.0LCT-ND'
+PRP Temperature_Coefficient '±100ppm/°C'
+PRP Tolerance '±1%'
+PRP Value '33'
+TOP 0 0.9139999 1.0565276 90 N 62 2 R5-1
+TOP 1 0.8746298 1.0565276 90 N 56 1 R5-2
+#
+# CMP 4
+CMP 16 0.527 0.128 180 N R12 100 ;0=1,1=0.0217
+PRP Assembly_Notes ''
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'Internal Datasheet'
+PRP ComponentLink1URL 'datasheets\Panasonic Electronic Components\AOA0000CE2.pdf'
+PRP ComponentLink2Description 'External Datasheet'
+PRP ComponentLink2URL 'http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE2.pdf'
+PRP Composition 'Thick Film'
+PRP Features '-'
+PRP Height '0.55MM'
+PRP Limiting_Element_Voltage '75'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-3EKF1000V'
+PRP Maximum_Overload_Voltage '150'
+PRP Maximum_Working_Voltage '3.2V'
+PRP Number_of_Terminations '2'
+PRP Package '0603 (1608 Metric)'
+PRP Package_Power '0603  (0.1W)'
+PRP Packaging 'Cut Tape (CT)'
+PRP Power_(Watts) '0.1W- 1/10W'
+PRP Ratings 'AEC-Q200'
+PRP Resistance_(Ohms) '100'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Sort_Value '100'
+PRP Sort_Value_Package '603_100'
+PRP Stocked '0'
+PRP Substitution_Notes '100 , ±1% , 0603 , AEC-Q200'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Package '0603'
+PRP Supplier_Part_Number_1 'P100HCT-ND'
+PRP Temperature_Coefficient '±100ppm/°C'
+PRP Tolerance '±1%'
+PRP Value '100'
+TOP 0 0.5565276 0.128 90 N 7 2 R12-1
+TOP 1 0.4974725 0.128 90 N 8 2 R12-2
+#
+# CMP 5
+CMP 0 0.515 0.2876614 90 N U8 ISL3176EIUZ-T ;0=1,1=0.0339
+PRP Assembly_Notes ''
+PRP Category 'Integrated Circuits (ICs)'
+PRP ComponentLink1Description 'http://www.intersil.com/content/dam/intersil/documents/isl3/isl3170e-71e-72e-73e-74e-75e-76e-77e-78e.pdf'
+PRP ComponentLink1URL 'http://www.intersil.com/content/dam/intersil/documents/isl3/isl3170e-71e-72e-73e-74e-75e-76e-77e-78e.pdf'
+PRP Data_Rate '20Mbps'
+PRP Duplex 'Full'
+PRP Manufacturer 'Intersil'
+PRP Manufacturer_Part_Number 'ISL3176EIUZ-T'
+PRP Mounting_Type 'Surface Mount'
+PRP Number_of_Drivers/Receivers '1/1'
+PRP Operating_Temperature '-40°C ~ 85°C'
+PRP Package_/_Case '10-TFSOP, 10-MSOP (0.118_, 3.00mm Width)'
+PRP Packaging 'Cut Tape (CT)'
+PRP Part_Status 'Active'
+PRP Pricing_1 '1=1.79, 10=1.61, 100=1.2944, 500=1.06348, 1000=0.88117 (USD)'
+PRP Protocol 'RS422, RS485'
+PRP RoHS 'RoHS Compliant'
+PRP Stock_1 '9164'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Device_Package '10-MSOP'
+PRP Supplier_Part_Number_1 'ISL3176EIUZ-TCT-ND'
+PRP Type 'Transceiver'
+PRP Value 'ISL3176EIUZ-T'
+PRP Voltage_-_Supply '3 V ~ 3.6 V'
+TOP 0 0.5543701 0.3713228 0 N 24 0 U8-1
+TOP 1 0.5346851 0.3713228 0 N 3 0 U8-2
+TOP 2 0.515 0.3713228 0 N 4 0 U8-3
+TOP 3 0.495315 0.3713228 0 N 23 0 U8-4
+TOP 4 0.4756299 0.3713228 0 N 60 57 U8-5
+TOP 5 0.4756299 0.204 0 N 6 1 U8-6
+TOP 6 0.495315 0.204 0 N 5 1 U8-7
+TOP 7 0.515 0.204 0 N 8 1 U8-8
+TOP 8 0.5346851 0.204 0 N 7 1 U8-9
+TOP 9 0.5543701 0.204 0 N 63 17 U8-10
+#
+# CMP 6
+CMP 8 0.495315 1.332 0 N SW1 CHS-01TA ;0=1,1=0.0630
+PRP Actuator_Type 'Slide (Standard)'
+PRP Body_Material 'Polyphenylene'
+PRP Category 'DIP Switches'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/2863/chs-2863448.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/2863/chs-2863448.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/2863/chs-2863449.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/2863/chs-2863449.pdf?src-supplier=Digi-Key'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/2863/chs-2863450.pdf?src-supplier=Digi-Key'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/2863/chs-2863450.pdf?src-supplier=Digi-Key'
+PRP Contact_Material 'Copper Alloy'
+PRP Contact_Plating 'Gold'
+PRP Current_Rating '100mA'
+PRP Electrical_Life '2000Cycles'
+PRP Lead_Free 'Lead Free'
+PRP Length '0.098inch'
+PRP Manufacturer 'Nidec Copal'
+PRP Manufacturer_Part_Number 'CHS-01TA'
+PRP Max_Operating_Temperature '85°C'
+PRP Max_Voltage_Rating_(DC) '24V'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Positions '1'
+PRP Orientation 'Vertical'
+PRP Packaging 'Tape and Reel'
+PRP Pitch '0.05inch'
+PRP Pricing_1 '1000=0.57079, 2000=0.57024, 4000=0.56944, 6000=0.46309, 8000=0.46247 (USD)'
+PRP RoHS 'Yes'
+PRP Stock_1 '19000'
+PRP Supplier_1 'Avnet'
+PRP Supplier_Part_Number_1 'CHS-01TA'
+PRP Termination 'J-Hook'
+PRP Throw_Configuration 'SPST'
+PRP Value 'CHS-01TA'
+PRP Voltage_Rating_(DC) '6V'
+PRP Washable 'Yes'
+TOP 0 0.495315 1.152 0 N 9 2 SW1-1
+TOP 1 0.495315 1.352 0 N 12 4 SW1-2
+#
+# CMP 7
+CMP 9 1 1.367 180 N D3 BAT760-7 ;0=1,1=0.0531
+PRP Capacitance_@_Vr-_F '25pF @ 5V- 1MHz'
+PRP Category 'Diodes'
+PRP CategorySort '400'
+PRP ComponentLink1Description 'Internal Datasheet'
+PRP ComponentLink1URL 'http://www.diodes.com/datasheets/ds30498.pdf'
+PRP ComponentLink2Description 'External Datasheet'
+PRP ComponentLink2URL 'http://www.diodes.com/datasheets/ds30498.pdf'
+PRP Current_-_Average_Rectified_(Io) '1A'
+PRP Current_-_Reverse_Leakage_@_Vr '50µA @ 15V'
+PRP Diode_Suffix '1A_2C'
+PRP Diode_Type 'Schottky'
+PRP Manufacturer 'Diodes Inc'
+PRP Manufacturer_Part_Number 'BAT760-7'
+PRP Mounting_Type 'Surface Mount'
+PRP Num_Pins '2'
+PRP Package 'SC-76- SOD-323'
+PRP Packaging 'Cut Tape (CT)'
+PRP Reverse_Recovery_Time_(trr) '-'
+PRP SortValue 'BAT760-7'
+PRP Speed 'Fast Recovery =< 500ns- > 200mA (Io)'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Device_Package 'SOD-323'
+PRP Supplier_Part_Number_1 'BAT760DICT-ND'
+PRP Value 'BAT760-7'
+PRP Voltage_-_DC_Reverse_(Vr)_(Max) '30V'
+PRP Voltage_-_Forward_(Vf)_(Max)_@_If '550mV @ 1A'
+TOP 0 1.0472441 1.367 90 N 58 4 D3-1
+TOP 1 0.9527559 1.367 90 N 14 6 D3-2
+#
+# CMP 8
+CMP 6 0.635 1.341 0 N C3 10_F ;0=1,1=0.0571
+PRP Category 'Capacitors'
+PRP ComponentLink1Description 'Datasheet (Internal)'
+PRP ComponentLink1URL 'datasheets\TDK\mlcc_automotive_general_en.pdf'
+PRP ComponentLink2Description 'Datasheet (External)'
+PRP ComponentLink2URL 'https://product.tdk.com/info/en/catalog/datasheets/mlcc_automotive_general_en.pdf'
+PRP Features '-'
+PRP Manufacturer 'TDK Corporation'
+PRP Manufacturer_Part_Number 'CGA4J1X7R0J106K125AC'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Package '0805'
+PRP Ratings 'AEC-Q200'
+PRP Substitution_Notes '10µF , 6.3V , ±10% , X7R , -55°C ~ 125°C , AEC-Q200 , 0805'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '445-6971-1-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Thickness_(Max) '1.45MM'
+PRP Tolerance '±10%'
+PRP Value '10µF'
+PRP Voltage_-_Rated '6.3V'
+TOP 0 0.6005512 1.341 270 N 60 52 C3-1
+TOP 1 0.6694488 1.341 270 N 12 3 C3-2
+#
+# CMP 9
+CMP 19 -0.036 0.3492401 0 N Q2 NTR1P02T1G ;0=1,1=0.0630
+PRP Case/Package 'SOT-23-3'
+PRP Category 'MOSFETs'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/22641/1708311-22641684.pdf?src-supplier=Element14'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/22641/1708311-22641684.pdf?src-supplier=Element14'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/936/ntr1p02t1-d-936864.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/936/ntr1p02t1-d-936864.pdf?src-supplier=Digi-Key'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/22641/1708311-22641686.pdf?src-supplier=Element14'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/22641/1708311-22641686.pdf?src-supplier=Element14'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/26145/ntr1p02t1-d-26145674.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/26145/ntr1p02t1-d-26145674.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink5Description 'https://datasheet.ciiva.com/11168/ntr1p02t1-d-11168174.pdf?src-supplier=Avnet'
+PRP ComponentLink5URL 'https://datasheet.ciiva.com/11168/ntr1p02t1-d-11168174.pdf?src-supplier=Avnet'
+PRP ComponentLink6Description 'https://datasheet.ciiva.com/16386/ntr1p02t1-d-16386335.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink6URL 'https://datasheet.ciiva.com/16386/ntr1p02t1-d-16386335.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink7Description 'https://datasheet.ciiva.com/936/ntr1p02t1-d-936865.pdf?src-supplier=Digi-Key'
+PRP ComponentLink7URL 'https://datasheet.ciiva.com/936/ntr1p02t1-d-936865.pdf?src-supplier=Digi-Key'
+PRP Contact_Plating 'Tin,Matte'
+PRP Continuous_Drain_Current_(ID) '1A'
+PRP Current_Rating '-1A'
+PRP Drain_to_Source_Breakdown_Voltage '-20V'
+PRP Drain_to_Source_Resistance '148mR'
+PRP Drain_to_Source_Voltage_(Vdss) '20V'
+PRP Element_Configuration 'Single'
+PRP Fall_Time '9ns'
+PRP Gate_to_Source_Voltage_(Vgs) '20V'
+PRP Height '0.94mm'
+PRP Input_Capacitance '165pF'
+PRP Lead_Free 'Lead Free'
+PRP Length '2.9mm'
+PRP Manufacturer 'ON Semiconductor'
+PRP Manufacturer_Part_Number 'NTR1P02T1G'
+PRP Max_Operating_Temperature '150°C'
+PRP Max_Power_Dissipation '400mW'
+PRP Min_Operating_Temperature '-55°C'
+PRP Nominal_Vgs '-1.9V'
+PRP Number_of_Elements '1'
+PRP Number_of_Pins '3'
+PRP On-State_Resistance '148MR'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Power_Dissipation '400mW'
+PRP Pricing '1=0.48000, 10=0.35500, 25=0.31080, 100=0.16870, 500=0.13764, 1000=0.10212 (USD)'
+PRP Radiation_Hardening 'No'
+PRP Rds_On_Max '180mR'
+PRP REACH_SVHC 'No SVHC'
+PRP Rise_Time '9ns'
+PRP RoHS 'Yes'
+PRP Stock '320'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'NTR1P02T1GOSCT-ND'
+PRP Threshold_Voltage '-1.9V'
+PRP Turn-Off_Delay_Time '9ns'
+PRP Turn-On_Delay_Time '7ns'
+PRP Value 'NTR1P02T1G'
+PRP Voltage_Rating_(DC) '-20V'
+PRP Width '1.3mm'
+TOP 0 -0.0714331 0.3866417 270 N 26 0 Q2-1
+TOP 1 -0.0714331 0.3118386 270 N 10 1 Q2-2
+TOP 2 -0.000567 0.3492401 270 N 60 51 Q2-3
+#
+# CMP 10
+CMP 9 0.6631102 1.1141063 180 N D2 BAT760-7 ;0=1,1=0.0531
+PRP Capacitance_@_Vr-_F '25pF @ 5V- 1MHz'
+PRP Category 'Diodes'
+PRP CategorySort '400'
+PRP ComponentLink1Description 'Internal Datasheet'
+PRP ComponentLink1URL 'http://www.diodes.com/datasheets/ds30498.pdf'
+PRP ComponentLink2Description 'External Datasheet'
+PRP ComponentLink2URL 'http://www.diodes.com/datasheets/ds30498.pdf'
+PRP Current_-_Average_Rectified_(Io) '1A'
+PRP Current_-_Reverse_Leakage_@_Vr '50µA @ 15V'
+PRP Diode_Suffix '1A_2C'
+PRP Diode_Type 'Schottky'
+PRP Manufacturer 'Diodes Inc'
+PRP Manufacturer_Part_Number 'BAT760-7'
+PRP Mounting_Type 'Surface Mount'
+PRP Num_Pins '2'
+PRP Package 'SC-76- SOD-323'
+PRP Packaging 'Cut Tape (CT)'
+PRP Reverse_Recovery_Time_(trr) '-'
+PRP SortValue 'BAT760-7'
+PRP Speed 'Fast Recovery =< 500ns- > 200mA (Io)'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Device_Package 'SOD-323'
+PRP Supplier_Part_Number_1 'BAT760DICT-ND'
+PRP Value 'BAT760-7'
+PRP Voltage_-_DC_Reverse_(Vr)_(Max) '30V'
+PRP Voltage_-_Forward_(Vf)_(Max)_@_If '550mV @ 1A'
+TOP 0 0.7103543 1.1141063 90 N 14 5 D2-1
+TOP 1 0.6158661 1.1141063 90 N 9 1 D2-2
+#
+# CMP 11
+CMP 4 0.602 0.606 270 N C6 47pF ;0=1,1=0.0217
+PRP Category 'Capacitors'
+PRP ComponentLink1Description 'Datasheet (Internal)'
+PRP ComponentLink1URL 'datasheets\TDK\mlcc_automotive_general_en.pdf'
+PRP ComponentLink2Description 'Datasheet (External)'
+PRP ComponentLink2URL 'https://product.tdk.com/info/en/catalog/datasheets/mlcc_automotive_general_en.pdf'
+PRP Features '-'
+PRP Manufacturer 'TDK Corporation'
+PRP Manufacturer_Part_Number 'CGA2B2C0G1H470J050BA'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Package '0402'
+PRP Ratings 'AEC-Q200'
+PRP Substitution_Notes '47pF , 50V , ±5% , C0G, NP0 , -55°C ~ 125°C , AEC-Q200 , 0402'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '445-5592-1-ND'
+PRP Temperature_Coefficient 'C0G, NP0'
+PRP Thickness_(Max) '0.55MM'
+PRP Tolerance '±5%'
+PRP Value '47pF'
+PRP Voltage_-_Rated '50V'
+TOP 0 0.602 0.5833622 180 N 60 48 C6-1
+TOP 1 0.602 0.6286378 180 N 63 13 C6-2
+#
+# CMP 12
+CMP 4 0.549 0.6066378 270 N C5 0.1_F ;0=1,1=0.0217
+PRP Category 'Capacitors'
+PRP ComponentLink1Description 'Datasheet (Internal)'
+PRP ComponentLink1URL 'datasheets\TDK\mlcc_automotive_general_en.pdf'
+PRP ComponentLink2Description 'Datasheet (External)'
+PRP ComponentLink2URL 'https://product.tdk.com/info/en/catalog/datasheets/mlcc_automotive_general_en.pdf'
+PRP Features '-'
+PRP Manufacturer 'TDK Corporation'
+PRP Manufacturer_Part_Number 'CGA2B1X7R1C104K050BC'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Package '0402'
+PRP Ratings 'AEC-Q200'
+PRP Substitution_Notes '0.1µF , 16V , ±10% , X7R , -55°C ~ 125°C , AEC-Q200 , 0402'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '445-5613-1-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Thickness_(Max) '0.55MM'
+PRP Tolerance '±10%'
+PRP Value '0.1µF'
+PRP Voltage_-_Rated '16V'
+TOP 0 0.549 0.584 180 N 60 47 C5-1
+TOP 1 0.549 0.6292756 180 N 63 12 C5-2
+#
+# CMP 13
+CMP 6 0.447 0.544 0 N C4 10_F ;0=1,1=0.0571
+PRP Category 'Capacitors'
+PRP ComponentLink1Description 'Datasheet (Internal)'
+PRP ComponentLink1URL 'datasheets\TDK\mlcc_automotive_general_en.pdf'
+PRP ComponentLink2Description 'Datasheet (External)'
+PRP ComponentLink2URL 'https://product.tdk.com/info/en/catalog/datasheets/mlcc_automotive_general_en.pdf'
+PRP Features '-'
+PRP Manufacturer 'TDK Corporation'
+PRP Manufacturer_Part_Number 'CGA4J1X7R0J106K125AC'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Package '0805'
+PRP Ratings 'AEC-Q200'
+PRP Substitution_Notes '10µF , 6.3V , ±10% , X7R , -55°C ~ 125°C , AEC-Q200 , 0805'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '445-6971-1-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Thickness_(Max) '1.45MM'
+PRP Tolerance '±10%'
+PRP Value '10µF'
+PRP Voltage_-_Rated '6.3V'
+TOP 0 0.4125512 0.544 270 N 60 46 C4-1
+TOP 1 0.4814488 0.544 270 N 63 11 C4-2
+#
+# CMP 14
+CMP 6 1.051 1.255 90 N C2 10_F ;0=1,1=0.0571
+PRP Category 'Capacitors'
+PRP ComponentLink1Description 'Datasheet (Internal)'
+PRP ComponentLink1URL 'datasheets\TDK\mlcc_automotive_general_en.pdf'
+PRP ComponentLink2Description 'Datasheet (External)'
+PRP ComponentLink2URL 'https://product.tdk.com/info/en/catalog/datasheets/mlcc_automotive_general_en.pdf'
+PRP Features '-'
+PRP Manufacturer 'TDK Corporation'
+PRP Manufacturer_Part_Number 'CGA4J1X7R0J106K125AC'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Package '0805'
+PRP Ratings 'AEC-Q200'
+PRP Substitution_Notes '10µF , 6.3V , ±10% , X7R , -55°C ~ 125°C , AEC-Q200 , 0805'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '445-6971-1-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Thickness_(Max) '1.45MM'
+PRP Tolerance '±10%'
+PRP Value '10µF'
+PRP Voltage_-_Rated '6.3V'
+TOP 0 1.051 1.2894488 0 N 60 49 C2-1
+TOP 1 1.051 1.2205512 0 N 13 3 C2-2
+#
+# CMP 15
+CMP 6 0.937 1.29 0 N C1 10_F ;0=1,1=0.0571
+PRP Category 'Capacitors'
+PRP ComponentLink1Description 'Datasheet (Internal)'
+PRP ComponentLink1URL 'datasheets\TDK\mlcc_automotive_general_en.pdf'
+PRP ComponentLink2Description 'Datasheet (External)'
+PRP ComponentLink2URL 'https://product.tdk.com/info/en/catalog/datasheets/mlcc_automotive_general_en.pdf'
+PRP Features '-'
+PRP Manufacturer 'TDK Corporation'
+PRP Manufacturer_Part_Number 'CGA4J1X7R0J106K125AC'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Package '0805'
+PRP Ratings 'AEC-Q200'
+PRP Substitution_Notes '10µF , 6.3V , ±10% , X7R , -55°C ~ 125°C , AEC-Q200 , 0805'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '445-6971-1-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Thickness_(Max) '1.45MM'
+PRP Tolerance '±10%'
+PRP Value '10µF'
+PRP Voltage_-_Rated '6.3V'
+TOP 0 0.9025512 1.29 270 N 60 50 C1-1
+TOP 1 0.9714488 1.29 270 N 14 4 C1-2
+#
+# CMP 16
+CMP 14 0.823 1.335 90 N R3 10k ;0=1,1=0.0157
+PRP Assembly_Notes ''
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'Internal Datasheet'
+PRP ComponentLink1URL 'datasheets\Panasonic Electronic Components\AOA0000CE2.pdf'
+PRP ComponentLink2Description 'External Datasheet'
+PRP ComponentLink2URL 'http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE2.pdf'
+PRP Composition 'Thick Film'
+PRP Features '-'
+PRP Height '0.40MM'
+PRP Limiting_Element_Voltage '50'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-2RKF1002X'
+PRP Maximum_Overload_Voltage '100'
+PRP Maximum_Working_Voltage '31.6V'
+PRP Number_of_Terminations '2'
+PRP Package '0402 (1005 Metric)'
+PRP Package_Power '0402  (0.1W)'
+PRP Packaging 'Cut Tape (CT)'
+PRP Power_(Watts) '0.1W- 1/10W'
+PRP Ratings 'AEC-Q200'
+PRP Resistance_(Ohms) '10k'
+PRP Size_/_Dimension '0.039_ L x 0.020_ W (1.00mm x 0.50mm)'
+PRP Sort_Value '10000'
+PRP Sort_Value_Package '402_10000'
+PRP Substitution_Notes '10k , ±1% , 0402 , AEC-Q200'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Package '0402'
+PRP Supplier_Part_Number_1 'P10.0KLCT-ND'
+PRP Temperature_Coefficient '±100ppm/°C'
+PRP Tolerance '±1%'
+PRP Value '10k'
+TOP 0 0.823 1.354685 0 N 60 69 R3-1
+TOP 1 0.823 1.3153149 0 N 11 1 R3-2
+#
+# CMP 17
+CMP 14 0.76063 1.335 270 N R1 10k ;0=1,1=0.0157
+PRP Assembly_Notes ''
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'Internal Datasheet'
+PRP ComponentLink1URL 'datasheets\Panasonic Electronic Components\AOA0000CE2.pdf'
+PRP ComponentLink2Description 'External Datasheet'
+PRP ComponentLink2URL 'http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE2.pdf'
+PRP Composition 'Thick Film'
+PRP Features '-'
+PRP Height '0.40MM'
+PRP Limiting_Element_Voltage '50'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-2RKF1002X'
+PRP Maximum_Overload_Voltage '100'
+PRP Maximum_Working_Voltage '31.6V'
+PRP Number_of_Terminations '2'
+PRP Package '0402 (1005 Metric)'
+PRP Package_Power '0402  (0.1W)'
+PRP Packaging 'Cut Tape (CT)'
+PRP Power_(Watts) '0.1W- 1/10W'
+PRP Ratings 'AEC-Q200'
+PRP Resistance_(Ohms) '10k'
+PRP Size_/_Dimension '0.039_ L x 0.020_ W (1.00mm x 0.50mm)'
+PRP Sort_Value '10000'
+PRP Sort_Value_Package '402_10000'
+PRP Substitution_Notes '10k , ±1% , 0402 , AEC-Q200'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Package '0402'
+PRP Supplier_Part_Number_1 'P10.0KLCT-ND'
+PRP Temperature_Coefficient '±100ppm/°C'
+PRP Tolerance '±1%'
+PRP Value '10k'
+TOP 0 0.76063 1.315315 180 N 14 3 R1-1
+TOP 1 0.76063 1.3546851 180 N 60 45 R1-2
+#
+# CMP 18
+CMP 14 0.6 0.218185 90 N R11 10k ;0=1,1=0.0157
+PRP Assembly_Notes ''
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'Internal Datasheet'
+PRP ComponentLink1URL 'datasheets\Panasonic Electronic Components\AOA0000CE2.pdf'
+PRP ComponentLink2Description 'External Datasheet'
+PRP ComponentLink2URL 'http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE2.pdf'
+PRP Composition 'Thick Film'
+PRP Features '-'
+PRP Height '0.40MM'
+PRP Limiting_Element_Voltage '50'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-2RKF1002X'
+PRP Maximum_Overload_Voltage '100'
+PRP Maximum_Working_Voltage '31.6V'
+PRP Number_of_Terminations '2'
+PRP Package '0402 (1005 Metric)'
+PRP Package_Power '0402  (0.1W)'
+PRP Packaging 'Cut Tape (CT)'
+PRP Power_(Watts) '0.1W- 1/10W'
+PRP Ratings 'AEC-Q200'
+PRP Resistance_(Ohms) '10k'
+PRP Size_/_Dimension '0.039_ L x 0.020_ W (1.00mm x 0.50mm)'
+PRP Sort_Value '10000'
+PRP Sort_Value_Package '402_10000'
+PRP Substitution_Notes '10k , ±1% , 0402 , AEC-Q200'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Package '0402'
+PRP Supplier_Part_Number_1 'P10.0KLCT-ND'
+PRP Temperature_Coefficient '±100ppm/°C'
+PRP Tolerance '±1%'
+PRP Value '10k'
+TOP 0 0.6 0.23787 0 N 63 14 R11-1
+TOP 1 0.6 0.1984999 0 N 21 1 R11-2
+#
+# CMP 19
+CMP 17 0.249 1.215 180 N J1 S2B-PH-SM4-TB(LF)(SN) ;0=1,1=0.0630
+PRP Category 'Connectors, Interconnects'
+PRP Color 'Natural'
+PRP ComponentLink1Description 'http://www.jst-mfg.com/product/pdf/eng/ePH.pdf'
+PRP ComponentLink1URL 'http://www.jst-mfg.com/product/pdf/eng/ePH.pdf'
+PRP Connector_Type 'Header, Shrouded'
+PRP Contact_Finish 'Tin'
+PRP Contact_Finish_Thickness '-'
+PRP Contact_Mating_Length '-'
+PRP Contact_Type 'Male Pin'
+PRP Fastening_Type '-'
+PRP Features 'Solder Retention'
+PRP Manufacturer 'JST Sales America Inc'
+PRP Manufacturer_Part_Number 'S2B-PH-SM4-TB(LF)(SN)'
+PRP Mounting_Type 'Surface Mount, Right Angle'
+PRP Number_of_Positions '2'
+PRP Number_of_Positions_Loaded 'All'
+PRP Number_of_Rows '1'
+PRP Packaging 'Cut Tape (CT)'
+PRP Pitch '0.079_ (2.00mm)'
+PRP Pricing_1 '1=0.5, 10=0.457, 100=0.3809, 500=0.3047 (USD)'
+PRP RoHS 'RoHS Compliant'
+PRP Row_Spacing '-'
+PRP Stock_1 '17700'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '455-1749-1-ND'
+PRP Termination 'Solder'
+PRP Value 'S2B-PH-SM4-TB(LF)(SN)'
+TOP 0 0.2883701 1.3232677 0 N 60 56 J1-1
+TOP 1 0.2096299 1.3232677 0 N 13 4 J1-2
+TOP 2 0.1171102 1.1067323 0 N 0 37 J1-M1
+TOP 3 0.3808897 1.1067323 0 N 0 36 J1-M2
+#
+# CMP 20
+CMP 20 0.94 1.183 270 N U1 MCP73832T-2ATI/OT ;0=1,1=0.0571
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/1137/630369-1137827.pdf?src-supplier=Element14'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/1137/630369-1137827.pdf?src-supplier=Element14'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/15115/getdatasheetpartid-574102-15115383.pdf?src-supplier=Verical'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/15115/getdatasheetpartid-574102-15115383.pdf?src-supplier=Verical'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/1932/21984e-1932955.pdf?src-supplier=Digi-Key'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/1932/21984e-1932955.pdf?src-supplier=Digi-Key'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/1932/21984e-1932956.pdf?src-supplier=Digi-Key'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/1932/21984e-1932956.pdf?src-supplier=Digi-Key'
+PRP ComponentLink5Description 'https://datasheet.ciiva.com/1932/21984e-1932957.pdf?src-supplier=Digi-Key'
+PRP ComponentLink5URL 'https://datasheet.ciiva.com/1932/21984e-1932957.pdf?src-supplier=Digi-Key'
+PRP ComponentLink6Description 'https://datasheet.ciiva.com/17299/21984e-17299342.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink6URL 'https://datasheet.ciiva.com/17299/21984e-17299342.pdf?src-supplier=Avnet+Europe'
+PRP Manufacturer 'Microchip'
+PRP Manufacturer_Part_Number 'MCP73832T-2ATI/OT'
+PRP Pricing '1=0.56, 25=0.47, 100=0.42 (USD)'
+PRP RoHS 'Yes'
+PRP Stock '3196'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'MCP73832T-2ATI/OTCT-ND'
+PRP Value 'MCP73832T-2ATI/OT'
+TOP 0 0.9025984 1.1387087 180 N 32 0 U1-1
+TOP 1 0.94 1.1387087 180 N 60 44 U1-2
+TOP 2 0.9774015 1.1387087 180 N 13 2 U1-3
+TOP 3 0.9774015 1.2272914 180 N 14 2 U1-4
+TOP 4 0.9025984 1.2272914 180 N 11 0 U1-5
+#
+# CMP 21
+CMP 19 0.779 1.202433 90 N Q1 NTR1P02T1G ;0=1,1=0.0630
+PRP Case/Package 'SOT-23-3'
+PRP Category 'MOSFETs'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/22641/1708311-22641684.pdf?src-supplier=Element14'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/22641/1708311-22641684.pdf?src-supplier=Element14'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/936/ntr1p02t1-d-936864.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/936/ntr1p02t1-d-936864.pdf?src-supplier=Digi-Key'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/22641/1708311-22641686.pdf?src-supplier=Element14'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/22641/1708311-22641686.pdf?src-supplier=Element14'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/26145/ntr1p02t1-d-26145674.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/26145/ntr1p02t1-d-26145674.pdf?src-supplier=Avnet+Europe'
+PRP ComponentLink5Description 'https://datasheet.ciiva.com/11168/ntr1p02t1-d-11168174.pdf?src-supplier=Avnet'
+PRP ComponentLink5URL 'https://datasheet.ciiva.com/11168/ntr1p02t1-d-11168174.pdf?src-supplier=Avnet'
+PRP ComponentLink6Description 'https://datasheet.ciiva.com/16386/ntr1p02t1-d-16386335.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink6URL 'https://datasheet.ciiva.com/16386/ntr1p02t1-d-16386335.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink7Description 'https://datasheet.ciiva.com/936/ntr1p02t1-d-936865.pdf?src-supplier=Digi-Key'
+PRP ComponentLink7URL 'https://datasheet.ciiva.com/936/ntr1p02t1-d-936865.pdf?src-supplier=Digi-Key'
+PRP Contact_Plating 'Tin,Matte'
+PRP Continuous_Drain_Current_(ID) '1A'
+PRP Current_Rating '-1A'
+PRP Drain_to_Source_Breakdown_Voltage '-20V'
+PRP Drain_to_Source_Resistance '148mR'
+PRP Drain_to_Source_Voltage_(Vdss) '20V'
+PRP Element_Configuration 'Single'
+PRP Fall_Time '9ns'
+PRP Gate_to_Source_Voltage_(Vgs) '20V'
+PRP Height '0.94mm'
+PRP Input_Capacitance '165pF'
+PRP Lead_Free 'Lead Free'
+PRP Length '2.9mm'
+PRP Manufacturer 'ON Semiconductor'
+PRP Manufacturer_Part_Number 'NTR1P02T1G'
+PRP Max_Operating_Temperature '150°C'
+PRP Max_Power_Dissipation '400mW'
+PRP Min_Operating_Temperature '-55°C'
+PRP Nominal_Vgs '-1.9V'
+PRP Number_of_Elements '1'
+PRP Number_of_Pins '3'
+PRP On-State_Resistance '148MR'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Power_Dissipation '400mW'
+PRP Pricing '1=0.48000, 10=0.35500, 25=0.31080, 100=0.16870, 500=0.13764, 1000=0.10212 (USD)'
+PRP Radiation_Hardening 'No'
+PRP Rds_On_Max '180mR'
+PRP REACH_SVHC 'No SVHC'
+PRP Rise_Time '9ns'
+PRP RoHS 'Yes'
+PRP Stock '320'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'NTR1P02T1GOSCT-ND'
+PRP Threshold_Voltage '-1.9V'
+PRP Turn-Off_Delay_Time '9ns'
+PRP Turn-On_Delay_Time '7ns'
+PRP Value 'NTR1P02T1G'
+PRP Voltage_Rating_(DC) '-20V'
+PRP Width '1.3mm'
+TOP 0 0.8164016 1.2378661 0 N 14 1 Q1-1
+TOP 1 0.7415985 1.2378661 0 N 9 0 Q1-2
+TOP 2 0.779 1.167 0 N 13 1 Q1-3
+#
+# CMP 22
+CMP 10 1.295 0.367 270 N J4 DM3AT-SF-PEJM5 ;0=1,1=0.0661
+PRP Card_Type 'Secure Digital - microSD™'
+PRP Category 'Connectors, Interconnects'
+PRP ComponentLink1Description 'http://www.hirose.co.jp/cataloge_hp/e60900232.pdf'
+PRP ComponentLink1URL 'http://www.hirose.co.jp/cataloge_hp/e60900232.pdf'
+PRP Connector_Type 'Connector and Ejector'
+PRP Contact_Finish 'Gold'
+PRP Contact_Finish_Thickness '-'
+PRP Ejector_Side '-'
+PRP Features 'Switch'
+PRP Height_Above_Board '0.066_ (1.68mm)'
+PRP Insertion__Removal_Method 'Push In, Push Out'
+PRP Manufacturer 'Hirose Electric Co Ltd'
+PRP Manufacturer_Part_Number 'DM3AT-SF-PEJM5'
+PRP Mounting_Feature 'Normal, Standard - Top'
+PRP Mounting_Type 'Surface Mount, Right Angle'
+PRP Number_of_Positions '10 (8 + 2)'
+PRP Packaging 'Cut Tape (CT)'
+PRP Pricing '1=2.83, 10=2.72, 25=2.4932, 50=2.3798, 100=2.2664, 250=1.98312, 500=1.92648 (USD)'
+PRP RoHS 'RoHS Compliant'
+PRP Stock '28699'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'HR1964CT-ND'
+PRP Value 'DM3AT-SF-PEJM5'
+TOP 0 0.6631102 0.4929843 270 N 16 0 J4-1
+TOP 1 0.6631102 0.4496772 270 N 15 0 J4-2
+TOP 2 0.6631102 0.4063701 270 N 19 0 J4-3
+TOP 3 0.6631102 0.363063 270 N 63 9 J4-4
+TOP 4 0.6631102 0.3197559 270 N 20 0 J4-5
+TOP 5 0.6631102 0.2764488 270 N 60 36 J4-6
+TOP 6 0.6631102 0.2331417 270 N 18 0 J4-7
+TOP 7 0.6631102 0.1898346 270 N 17 0 J4-8
+TOP 8 1.0764961 0.1150315 270 N 60 37 J4-CDA
+TOP 9 0.6631102 0.1524331 270 N 21 0 J4-CDB
+TOP 10 0.6631102 0.5540079 270 N 60 35 J4-M
+TOP 11 0.8324016 0.1150315 90 N 60 38 J4-M
+TOP 12 1.2575984 0.6465276 270 N 60 39 J4-M
+TOP 13 1.2398819 0.1150315 270 N 60 40 J4-M
+#
+# CMP 23
+CMP 14 0.8943148 1.0220787 0 N R7 10k ;0=1,1=0.0157
+PRP Assembly_Notes ''
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'Internal Datasheet'
+PRP ComponentLink1URL 'datasheets\Panasonic Electronic Components\AOA0000CE2.pdf'
+PRP ComponentLink2Description 'External Datasheet'
+PRP ComponentLink2URL 'http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE2.pdf'
+PRP Composition 'Thick Film'
+PRP Features '-'
+PRP Height '0.40MM'
+PRP Limiting_Element_Voltage '50'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-2RKF1002X'
+PRP Maximum_Overload_Voltage '100'
+PRP Maximum_Working_Voltage '31.6V'
+PRP Number_of_Terminations '2'
+PRP Package '0402 (1005 Metric)'
+PRP Package_Power '0402  (0.1W)'
+PRP Packaging 'Cut Tape (CT)'
+PRP Power_(Watts) '0.1W- 1/10W'
+PRP Ratings 'AEC-Q200'
+PRP Resistance_(Ohms) '10k'
+PRP Size_/_Dimension '0.039_ L x 0.020_ W (1.00mm x 0.50mm)'
+PRP Sort_Value '10000'
+PRP Sort_Value_Package '402_10000'
+PRP Substitution_Notes '10k , ±1% , 0402 , AEC-Q200'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Package '0402'
+PRP Supplier_Part_Number_1 'P10.0KLCT-ND'
+PRP Temperature_Coefficient '±100ppm/°C'
+PRP Tolerance '±1%'
+PRP Value '10k'
+TOP 0 0.8746298 1.0220787 270 N 22 0 R7-1
+TOP 1 0.9139999 1.0220787 270 N 58 3 R7-2
+#
+# CMP 24
+CMP 15 0.581 0.463 270 N R2 33 ;0=1,1=0.0217
+PRP Assembly_Notes ''
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'Internal Datasheet'
+PRP ComponentLink1URL 'datasheets\Panasonic Electronic Components\AOA0000CE2.pdf'
+PRP ComponentLink2Description 'External Datasheet'
+PRP ComponentLink2URL 'http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE2.pdf'
+PRP Composition 'Thick Film'
+PRP Features '-'
+PRP Height '0.55MM'
+PRP Limiting_Element_Voltage '75'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-3EKF33R0V'
+PRP Maximum_Overload_Voltage '150'
+PRP Maximum_Working_Voltage '1.8V'
+PRP Number_of_Terminations '2'
+PRP Package '0603 (1608 Metric)'
+PRP Package_Power '0603  (0.1W)'
+PRP Packaging 'Cut Tape (CT)'
+PRP Power_(Watts) '0.1W- 1/10W'
+PRP Ratings 'AEC-Q200'
+PRP Resistance_(Ohms) '33'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Sort_Value '33'
+PRP Sort_Value_Package '603_33'
+PRP Substitution_Notes '33 , ±1% , 0603 , AEC-Q200'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Package '0603'
+PRP Supplier_Part_Number_1 'P33.0HCT-ND'
+PRP Temperature_Coefficient '±100ppm/°C'
+PRP Tolerance '±1%'
+PRP Value '33'
+TOP 0 0.581 0.4305197 180 N 10 0 R2-1
+TOP 1 0.581 0.4954803 180 N 25 1 R2-2
+#
+# CMP 25
+CMP 7 0.2 0.002 0 N P22 empty_part_name ;0=2,1=0.0000
+PRP Value ''
+TOP 0 0.2 0.002 0 N 1 0 P22-1
+#
+# CMP 26
+CMP 7 0.3 0.002 0 N P21 empty_part_name ;0=2,1=0.0000
+PRP Value ''
+TOP 0 0.3 0.002 0 N 6 0 P21-1
+#
+# CMP 27
+CMP 7 0.4 0.002 0 N P20 empty_part_name ;0=2,1=0.0000
+PRP Value ''
+TOP 0 0.4 0.002 0 N 5 0 P20-1
+#
+# CMP 28
+CMP 7 0.5 0.002 0 N P19 empty_part_name ;0=2,1=0.0000
+PRP Value ''
+TOP 0 0.5 0.002 0 N 8 0 P19-1
+#
+# CMP 29
+CMP 7 0.6 0.002 0 N P18 empty_part_name ;0=2,1=0.0000
+PRP Value ''
+TOP 0 0.6 0.002 0 N 7 0 P18-1
+#
+# CMP 30
+CMP 7 0.7 0.002 0 N P17 empty_part_name ;0=2,1=0.0000
+PRP Value ''
+TOP 0 0.7 0.002 0 N 39 1 P17-1
+#
+# CMP 31
+CMP 7 0.8 0.002 0 N P16 empty_part_name ;0=2,1=0.0000
+PRP Value ''
+TOP 0 0.8 0.002 0 N 60 16 P16-1
+#
+# CMP 32
+CMP 7 0.9 0.002 0 N P15 empty_part_name ;0=2,1=0.0000
+PRP Value ''
+TOP 0 0.9 0.002 0 N 27 0 P15-1
+#
+# CMP 33
+CMP 7 1 0.002 0 N P14 empty_part_name ;0=2,1=0.0000
+PRP Value ''
+TOP 0 1 0.002 0 N 2 0 P14-1
+#
+# CMP 34
+CMP 7 1.1 0.002 0 N P13 empty_part_name ;0=2,1=0.0000
+PRP Value ''
+TOP 0 1.1 0.002 0 N 37 0 P13-1
+#
+# CMP 35
+CMP 7 1.2 0.002 180 N P12 empty_part_name ;0=2,1=0.0000
+PRP Value ''
+TOP 0 1.2 0.002 180 N 38 0 P12-1
+#
+# CMP 36
+CMP 7 1.2 1.477 180 N P11 empty_part_name ;0=2,1=0.0000
+PRP Value ''
+TOP 0 1.2 1.477 180 N 33 0 P11-1
+#
+# CMP 37
+CMP 7 1.1 1.477 180 N P10 empty_part_name ;0=2,1=0.0000
+PRP Value ''
+TOP 0 1.1 1.477 180 N 58 0 P10-1
+#
+# CMP 38
+CMP 7 1 1.477 180 N P9 empty_part_name ;0=2,1=0.0000
+PRP Value ''
+TOP 0 1 1.477 180 N 63 3 P9-1
+#
+# CMP 39
+CMP 7 0.9 1.477 180 N P8 empty_part_name ;0=2,1=0.0000
+PRP Value ''
+TOP 0 0.9 1.477 180 N 12 0 P8-1
+#
+# CMP 40
+CMP 7 0.8 1.477 180 N P7 empty_part_name ;0=2,1=0.0000
+PRP Value ''
+TOP 0 0.8 1.477 180 N 28 0 P7-1
+#
+# CMP 41
+CMP 7 0.7 1.477 180 N P6 empty_part_name ;0=2,1=0.0000
+PRP Value ''
+TOP 0 0.7 1.477 180 N 36 0 P6-1
+#
+# CMP 42
+CMP 7 0.6 1.477 180 N P5 empty_part_name ;0=2,1=0.0000
+PRP Value ''
+TOP 0 0.6 1.477 180 N 31 0 P5-1
+#
+# CMP 43
+CMP 7 0.5 1.477 180 N P4 empty_part_name ;0=2,1=0.0000
+PRP Value ''
+TOP 0 0.5 1.477 180 N 29 0 P4-1
+#
+# CMP 44
+CMP 7 0.4 1.477 180 N P3 empty_part_name ;0=2,1=0.0000
+PRP Value ''
+TOP 0 0.4 1.477 180 N 30 0 P3-1
+#
+# CMP 45
+CMP 7 0.3 1.477 180 N P2 empty_part_name ;0=2,1=0.0000
+PRP Value ''
+TOP 0 0.3 1.477 180 N 60 17 P2-1
+#
+# CMP 46
+CMP 7 0.2 1.477 0 N P1 empty_part_name ;0=2,1=0.0000
+PRP Value ''
+TOP 0 0.2 1.477 0 N 13 0 P1-1
+#
+# CMP 47
+CMP 9 1.2012441 1.368 180 N D1 BAT760-7 ;0=1,1=0.0531
+PRP Capacitance_@_Vr-_F '25pF @ 5V- 1MHz'
+PRP Category 'Diodes'
+PRP CategorySort '400'
+PRP ComponentLink1Description 'Internal Datasheet'
+PRP ComponentLink1URL 'http://www.diodes.com/datasheets/ds30498.pdf'
+PRP ComponentLink2Description 'External Datasheet'
+PRP ComponentLink2URL 'http://www.diodes.com/datasheets/ds30498.pdf'
+PRP Current_-_Average_Rectified_(Io) '1A'
+PRP Current_-_Reverse_Leakage_@_Vr '50µA @ 15V'
+PRP Diode_Suffix '1A_2C'
+PRP Diode_Type 'Schottky'
+PRP Manufacturer 'Diodes Inc'
+PRP Manufacturer_Part_Number 'BAT760-7'
+PRP Mounting_Type 'Surface Mount'
+PRP Num_Pins '2'
+PRP Package 'SC-76- SOD-323'
+PRP Packaging 'Cut Tape (CT)'
+PRP Reverse_Recovery_Time_(trr) '-'
+PRP SortValue 'BAT760-7'
+PRP Speed 'Fast Recovery =< 500ns- > 200mA (Io)'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Device_Package 'SOD-323'
+PRP Supplier_Part_Number_1 'BAT760DICT-ND'
+PRP Value 'BAT760-7'
+PRP Voltage_-_DC_Reverse_(Vr)_(Max) '30V'
+PRP Voltage_-_Forward_(Vf)_(Max)_@_If '550mV @ 1A'
+TOP 0 1.2484882 1.368 90 N 33 1 D1-1
+TOP 1 1.154 1.368 90 N 14 0 D1-2
+#
+# CMP 48
+CMP 14 0.6 0.1425936 270 N R4 10k ;0=1,1=0.0157
+PRP Assembly_Notes ''
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'Internal Datasheet'
+PRP ComponentLink1URL 'datasheets\Panasonic Electronic Components\AOA0000CE2.pdf'
+PRP ComponentLink2Description 'External Datasheet'
+PRP ComponentLink2URL 'http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE2.pdf'
+PRP Composition 'Thick Film'
+PRP Features '-'
+PRP Height '0.40MM'
+PRP Limiting_Element_Voltage '50'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-2RKF1002X'
+PRP Maximum_Overload_Voltage '100'
+PRP Maximum_Working_Voltage '31.6V'
+PRP Number_of_Terminations '2'
+PRP Package '0402 (1005 Metric)'
+PRP Package_Power '0402  (0.1W)'
+PRP Packaging 'Cut Tape (CT)'
+PRP Power_(Watts) '0.1W- 1/10W'
+PRP Ratings 'AEC-Q200'
+PRP Resistance_(Ohms) '10k'
+PRP Size_/_Dimension '0.039_ L x 0.020_ W (1.00mm x 0.50mm)'
+PRP Sort_Value '10000'
+PRP Sort_Value_Package '402_10000'
+PRP Substitution_Notes '10k , ±1% , 0402 , AEC-Q200'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Package '0402'
+PRP Supplier_Part_Number_1 'P10.0KLCT-ND'
+PRP Temperature_Coefficient '±100ppm/°C'
+PRP Tolerance '±1%'
+PRP Value '10k'
+TOP 0 0.6 0.1229086 180 N 39 2 R4-1
+TOP 1 0.6 0.1622787 180 N 63 4 R4-2
+#
+# CMP 49
+CMP 14 1.276 0.754 270 N R8 10k ;0=1,1=0.0157
+PRP Assembly_Notes ''
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'Internal Datasheet'
+PRP ComponentLink1URL 'datasheets\Panasonic Electronic Components\AOA0000CE2.pdf'
+PRP ComponentLink2Description 'External Datasheet'
+PRP ComponentLink2URL 'http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000CE2.pdf'
+PRP Composition 'Thick Film'
+PRP Features '-'
+PRP Height '0.40MM'
+PRP Limiting_Element_Voltage '50'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-2RKF1002X'
+PRP Maximum_Overload_Voltage '100'
+PRP Maximum_Working_Voltage '31.6V'
+PRP Number_of_Terminations '2'
+PRP Package '0402 (1005 Metric)'
+PRP Package_Power '0402  (0.1W)'
+PRP Packaging 'Cut Tape (CT)'
+PRP Power_(Watts) '0.1W- 1/10W'
+PRP Ratings 'AEC-Q200'
+PRP Resistance_(Ohms) '10k'
+PRP Size_/_Dimension '0.039_ L x 0.020_ W (1.00mm x 0.50mm)'
+PRP Sort_Value '10000'
+PRP Sort_Value_Package '402_10000'
+PRP Substitution_Notes '10k , ±1% , 0402 , AEC-Q200'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Package '0402'
+PRP Supplier_Part_Number_1 'P10.0KLCT-ND'
+PRP Temperature_Coefficient '±100ppm/°C'
+PRP Tolerance '±1%'
+PRP Value '10k'
+TOP 0 1.276 0.734315 180 N 40 1 R8-1
+TOP 1 1.276 0.7736851 180 N 63 15 R8-2
+#
+# CMP 50
+CMP 12 1.1 0.8349725 90 N J3 FTSH-105-01-F-DV ;0=1,1=0.2350
+PRP Category 'Connectors'
+PRP Manufacturer 'SAMTEC'
+PRP Manufacturer_Part_Number 'FTSH-105-01-F-DV'
+PRP Pricing_1 '1=0.974, 25000=0.835, 50000=0.774 (USD)'
+PRP Stock_1 '0'
+PRP Supplier_1 'Newark'
+PRP Supplier_Part_Number_1 '01R3399'
+PRP Value 'FTSH-105-01-F-DV'
+TOP 0 1.015 0.9349725 90 N 63 16 J3-1
+TOP 1 1.185 0.9349725 270 N 50 0 J3-2
+TOP 2 1.015 0.8849725 90 N 60 55 J3-3
+TOP 3 1.185 0.8849725 270 N 51 0 J3-4
+TOP 4 1.015 0.8349725 90 N 60 53 J3-5
+TOP 5 1.185 0.8349725 270 N 49 0 J3-6
+TOP 6 1.015 0.7849725 90 N 0 35 J3-7
+TOP 7 1.185 0.7849725 270 N 0 34 J3-8
+TOP 8 1.015 0.7349725 90 N 60 54 J3-9
+TOP 9 1.185 0.7349725 270 N 40 2 J3-10
+TOP 10 1.1 0.9099725 90 N 0 1 J3-A
+TOP 11 1.1 0.7599725 270 N 0 0 J3-A
+#
+# CMP 51
+CMP 3 0.502 0.922 270 N U7 16MHz ;0=1,1=0.0512
+PRP Accuracy '20ppm'
+PRP Case/Package 'CSMD'
+PRP Category 'Crystals'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/15116/getdatasheetpartid-719852-15116752.pdf?src-supplier=Verical'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/15116/getdatasheetpartid-719852-15116752.pdf?src-supplier=Verical'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/4945/abm3-47699-4945240.pdf?src-supplier=Mouser'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/4945/abm3-47699-4945240.pdf?src-supplier=Mouser'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/855/abm3-855737.pdf?src-supplier=Digi-Key'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/855/abm3-855737.pdf?src-supplier=Digi-Key'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/855/abm3-855738.pdf?src-supplier=Digi-Key'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/855/abm3-855738.pdf?src-supplier=Digi-Key'
+PRP ComponentLink5Description 'https://datasheet.ciiva.com/855/abm3-855739.pdf?src-supplier=Digi-Key'
+PRP ComponentLink5URL 'https://datasheet.ciiva.com/855/abm3-855739.pdf?src-supplier=Digi-Key'
+PRP ComponentLink6Description 'https://datasheet.ciiva.com/16209/abm3-16209965.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink6URL 'https://datasheet.ciiva.com/16209/abm3-16209965.pdf?src-supplier=Future+Electronics'
+PRP Composition 'Ceramic'
+PRP Depth '3.2mm'
+PRP ESR_(Equivalent_Series_Resistance) '40R'
+PRP Frequency '16MHz'
+PRP Frequency_Stability '50ppm'
+PRP Frequency_Tolerance '20ppm'
+PRP Height '0.051inch'
+PRP Lead_Free 'Lead Free'
+PRP Length '5mm'
+PRP Load_Capacitance '18pF'
+PRP Manufacturer 'Abracon'
+PRP Manufacturer_Part_Number 'ABM3-16.000MHZ-B2-T'
+PRP Max_Operating_Temperature '70°C'
+PRP Min_Operating_Temperature '-20°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Pins '2'
+PRP Package_Quantity '1000'
+PRP Packaging 'Tape and Reel'
+PRP Pricing '1=0.66000, 10=0.55300, 50=0.49780, 100=0.44260, 500=0.42044 (USD)'
+PRP REACH_SVHC 'Yes'
+PRP RoHS 'Yes'
+PRP Series_Resistance '60R'
+PRP Stock '9690'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '535-9103-1-ND'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '20ppm'
+PRP Value '16MHz'
+PRP Width '3.2mm'
+TOP 0 0.502 0.8471969 270 N 52 1 U7-1
+TOP 1 0.502 0.9968032 270 N 53 1 U7-2
+#
+# CMP 52
+CMP 5 0.8114252 1.0429449 90 N L2 BKP1005EM221-T ;0=1,1=0.0118
+PRP Category 'Filters'
+PRP ComponentLink1Description 'http://ds.yuden.co.jp/TYCOMPAS/ut/detail.do?productNo=BKP1005EM221-T&fileName=BKP1005EM221-T_SS&mode=specSheetDownload'
+PRP ComponentLink1URL 'http://ds.yuden.co.jp/TYCOMPAS/ut/detail.do?productNo=BKP1005EM221-T&fileName=BKP1005EM221-T_SS&mode=specSheetDownload'
+PRP Current_Rating_(Max) '1A'
+PRP DC_Resistance_(DCR)_(Max) '150 mOhm'
+PRP Filter_Type 'Power Line'
+PRP Height_(Max) '0.022_ (0.55mm)'
+PRP Impedance_@_Frequency '220 Ohm @ 100MHz'
+PRP Manufacturer 'Taiyo Yuden'
+PRP Manufacturer_Part_Number 'BKP1005EM221-T'
+PRP Mounting_Type 'Surface Mount'
+PRP Number_of_Lines '1'
+PRP Operating_Temperature '-55°C ~ 85°C'
+PRP Package_/_Case '0402 (1005 Metric)'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Pricing_1 '10000=0.0145, 20000=0.014, 30000=0.013, 50000=0.01285 (USD)'
+PRP Ratings '-'
+PRP RoHS 'RoHS Compliant'
+PRP Size_/_Dimension '0.039_ L x 0.022_ W (1.00mm x 0.55mm)'
+PRP Stock_1 '60000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '587-3290-2-ND'
+PRP Value 'BKP1005EM221-T'
+TOP 0 0.8114252 1.0616457 0 N 63 7 L2-1
+TOP 1 0.8114252 1.0242441 0 N 54 2 L2-2
+#
+# CMP 53
+CMP 4 0.416 0.872 90 N C15 18pF ;0=1,1=0.0217
+PRP Category 'Capacitors'
+PRP ComponentLink1Description 'Datasheet (Internal)'
+PRP ComponentLink1URL 'datasheets\TDK\mlcc_automotive_general_en.pdf'
+PRP ComponentLink2Description 'Datasheet (External)'
+PRP ComponentLink2URL 'https://product.tdk.com/info/en/catalog/datasheets/mlcc_automotive_general_en.pdf'
+PRP Features '-'
+PRP Manufacturer 'TDK Corporation'
+PRP Manufacturer_Part_Number 'CGA2B2C0G1H180J050BA'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Package '0402'
+PRP Ratings 'AEC-Q200'
+PRP Substitution_Notes '18pF , 50V , ±5% , C0G, NP0 , -55°C ~ 125°C , AEC-Q200 , 0402'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '445-5587-1-ND'
+PRP Temperature_Coefficient 'C0G, NP0'
+PRP Thickness_(Max) '0.55MM'
+PRP Tolerance '±5%'
+PRP Value '18pF'
+PRP Voltage_-_Rated '50V'
+TOP 0 0.416 0.8946378 0 N 60 43 C15-1
+TOP 1 0.416 0.8493622 0 N 52 0 C15-2
+#
+# CMP 54
+CMP 4 0.416 0.973 270 N C14 18pF ;0=1,1=0.0217
+PRP Category 'Capacitors'
+PRP ComponentLink1Description 'Datasheet (Internal)'
+PRP ComponentLink1URL 'datasheets\TDK\mlcc_automotive_general_en.pdf'
+PRP ComponentLink2Description 'Datasheet (External)'
+PRP ComponentLink2URL 'https://product.tdk.com/info/en/catalog/datasheets/mlcc_automotive_general_en.pdf'
+PRP Features '-'
+PRP Manufacturer 'TDK Corporation'
+PRP Manufacturer_Part_Number 'CGA2B2C0G1H180J050BA'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Package '0402'
+PRP Ratings 'AEC-Q200'
+PRP Substitution_Notes '18pF , 50V , ±5% , C0G, NP0 , -55°C ~ 125°C , AEC-Q200 , 0402'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '445-5587-1-ND'
+PRP Temperature_Coefficient 'C0G, NP0'
+PRP Thickness_(Max) '0.55MM'
+PRP Tolerance '±5%'
+PRP Value '18pF'
+PRP Voltage_-_Rated '50V'
+TOP 0 0.416 0.9503622 180 N 60 42 C14-1
+TOP 1 0.416 0.9956378 180 N 53 0 C14-2
+#
+# CMP 55
+CMP 4 0.763063 1.0429449 90 N C13 0.1_F ;0=1,1=0.0217
+PRP Category 'Capacitors'
+PRP ComponentLink1Description 'Datasheet (Internal)'
+PRP ComponentLink1URL 'datasheets\TDK\mlcc_automotive_general_en.pdf'
+PRP ComponentLink2Description 'Datasheet (External)'
+PRP ComponentLink2URL 'https://product.tdk.com/info/en/catalog/datasheets/mlcc_automotive_general_en.pdf'
+PRP Features '-'
+PRP Manufacturer 'TDK Corporation'
+PRP Manufacturer_Part_Number 'CGA2B1X7R1C104K050BC'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Package '0402'
+PRP Ratings 'AEC-Q200'
+PRP Substitution_Notes '0.1µF , 16V , ±10% , X7R , -55°C ~ 125°C , AEC-Q200 , 0402'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '445-5613-1-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Thickness_(Max) '0.55MM'
+PRP Tolerance '±10%'
+PRP Value '0.1µF'
+PRP Voltage_-_Rated '16V'
+TOP 0 0.763063 1.0655827 0 N 60 18 C13-1
+TOP 1 0.763063 1.0203071 0 N 54 0 C13-2
+#
+# CMP 56
+CMP 4 0.712 1.0429449 270 N C12 0.1_F ;0=1,1=0.0217
+PRP Category 'Capacitors'
+PRP ComponentLink1Description 'Datasheet (Internal)'
+PRP ComponentLink1URL 'datasheets\TDK\mlcc_automotive_general_en.pdf'
+PRP ComponentLink2Description 'Datasheet (External)'
+PRP ComponentLink2URL 'https://product.tdk.com/info/en/catalog/datasheets/mlcc_automotive_general_en.pdf'
+PRP Features '-'
+PRP Manufacturer 'TDK Corporation'
+PRP Manufacturer_Part_Number 'CGA2B1X7R1C104K050BC'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Package '0402'
+PRP Ratings 'AEC-Q200'
+PRP Substitution_Notes '0.1µF , 16V , ±10% , X7R , -55°C ~ 125°C , AEC-Q200 , 0402'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '445-5613-1-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Thickness_(Max) '0.55MM'
+PRP Tolerance '±10%'
+PRP Value '0.1µF'
+PRP Voltage_-_Rated '16V'
+TOP 0 0.712 1.0203071 180 N 54 1 C12-1
+TOP 1 0.712 1.0655827 180 N 60 19 C12-2
+#
+# CMP 57
+CMP 4 0.914 0.677689 180 N C9 0.1_F ;0=1,1=0.0217
+PRP Category 'Capacitors'
+PRP ComponentLink1Description 'Datasheet (Internal)'
+PRP ComponentLink1URL 'datasheets\TDK\mlcc_automotive_general_en.pdf'
+PRP ComponentLink2Description 'Datasheet (External)'
+PRP ComponentLink2URL 'https://product.tdk.com/info/en/catalog/datasheets/mlcc_automotive_general_en.pdf'
+PRP Features '-'
+PRP Manufacturer 'TDK Corporation'
+PRP Manufacturer_Part_Number 'CGA2B1X7R1C104K050BC'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Package '0402'
+PRP Ratings 'AEC-Q200'
+PRP Substitution_Notes '0.1µF , 16V , ±10% , X7R , -55°C ~ 125°C , AEC-Q200 , 0402'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '445-5613-1-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Thickness_(Max) '0.55MM'
+PRP Tolerance '±10%'
+PRP Value '0.1µF'
+PRP Voltage_-_Rated '16V'
+TOP 0 0.9366378 0.677689 90 N 60 71 C9-1
+TOP 1 0.8913622 0.677689 90 N 63 27 C9-2
+#
+# CMP 58
+CMP 4 0.914 0.886 90 N C8 0.1_F ;0=1,1=0.0217
+PRP Category 'Capacitors'
+PRP ComponentLink1Description 'Datasheet (Internal)'
+PRP ComponentLink1URL 'datasheets\TDK\mlcc_automotive_general_en.pdf'
+PRP ComponentLink2Description 'Datasheet (External)'
+PRP ComponentLink2URL 'https://product.tdk.com/info/en/catalog/datasheets/mlcc_automotive_general_en.pdf'
+PRP Features '-'
+PRP Manufacturer 'TDK Corporation'
+PRP Manufacturer_Part_Number 'CGA2B1X7R1C104K050BC'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Package '0402'
+PRP Ratings 'AEC-Q200'
+PRP Substitution_Notes '0.1µF , 16V , ±10% , X7R , -55°C ~ 125°C , AEC-Q200 , 0402'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '445-5613-1-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Thickness_(Max) '0.55MM'
+PRP Tolerance '±10%'
+PRP Value '0.1µF'
+PRP Voltage_-_Rated '16V'
+TOP 0 0.914 0.9086378 0 N 60 20 C8-1
+TOP 1 0.914 0.8633622 0 N 63 5 C8-2
+#
+# CMP 59
+CMP 4 0.604 1.036 90 N C7 0.1_F ;0=1,1=0.0217
+PRP Category 'Capacitors'
+PRP ComponentLink1Description 'Datasheet (Internal)'
+PRP ComponentLink1URL 'datasheets\TDK\mlcc_automotive_general_en.pdf'
+PRP ComponentLink2Description 'Datasheet (External)'
+PRP ComponentLink2URL 'https://product.tdk.com/info/en/catalog/datasheets/mlcc_automotive_general_en.pdf'
+PRP Features '-'
+PRP Manufacturer 'TDK Corporation'
+PRP Manufacturer_Part_Number 'CGA2B1X7R1C104K050BC'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Package '0402'
+PRP Ratings 'AEC-Q200'
+PRP Substitution_Notes '0.1µF , 16V , ±10% , X7R , -55°C ~ 125°C , AEC-Q200 , 0402'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '445-5613-1-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Thickness_(Max) '0.55MM'
+PRP Tolerance '±10%'
+PRP Value '0.1µF'
+PRP Voltage_-_Rated '16V'
+TOP 0 0.604 1.0586378 0 N 60 41 C7-1
+TOP 1 0.604 1.0133622 0 N 63 10 C7-2
+#
+# CMP 60
+CMP 18 1.025 1.0948031 180 N U4 PRTR5V0U2X,215 ;0=1,1=0.0433
+PRP Applications 'General Purpose'
+PRP Bidirectional_Channels '2'
+PRP Capacitance_@_Frequency '1pF @ 1MHz'
+PRP Category 'Circuit Protection'
+PRP ComponentLink1Description 'http://www.nxp.com/documents/data_sheet/PRTR5V0U2X.pdf'
+PRP ComponentLink1URL 'http://www.nxp.com/documents/data_sheet/PRTR5V0U2X.pdf'
+PRP Current_-_Peak_Pulse_(10/1000µs) '-'
+PRP Manufacturer 'NXP Semiconductors'
+PRP Manufacturer_Part_Number 'PRTR5V0U2X,215'
+PRP Mounting_Type 'Surface Mount'
+PRP Operating_Temperature '-40°C ~ 85°C (TA)'
+PRP Package_/_Case 'TO-253-4, TO-253AA'
+PRP Packaging 'Cut Tape (CT)'
+PRP Power_-_Peak_Pulse '-'
+PRP Power_Line_Protection 'Yes'
+PRP Pricing '1=0.57, 10=0.477, 25=0.418, 100=0.3578, 250=0.31036, 500=0.26286, 1000=0.20265 (USD)'
+PRP RoHS 'RoHS Compliant'
+PRP Stock '11734'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Device_Package 'SOT-143B'
+PRP Supplier_Part_Number_1 '568-4140-1-ND'
+PRP Type 'Steering (Rail to Rail)'
+PRP Unidirectional_Channels '-'
+PRP Value 'PRTR5V0U2X,215'
+PRP Voltage_-_Breakdown_(Min) '6V'
+PRP Voltage_-_Clamping_(Max)_@_Ipp '-'
+PRP Voltage_-_Reverse_Standoff_(Typ) '5.5V (Max)'
+TOP 0 1.025 1.0948031 180 N 60 26 U4-1
+TOP 1 0.958 1.0948031 180 N 61 0 U4-2
+TOP 2 0.958 1.02 180 N 62 0 U4-3
+TOP 3 1.032874 1.02 180 N 58 1 U4-4
+#
+# CMP 61
+CMP 6 0.449 0.626 0 N L1 CBC2012T4R7M ;0=1,1=0.0571
+PRP Case/Package '0805'
+PRP Case_Code_(Imperial) '0805'
+PRP Case_Code_(Metric) '2012'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/15981/214cbc2012t4r7m-15981637.pdf?src-supplier=Onlinecomponents.com'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/15981/214cbc2012t4r7m-15981637.pdf?src-supplier=Onlinecomponents.com'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/1040/cbc2012t4r7m-ss-1040456.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/1040/cbc2012t4r7m-ss-1040456.pdf?src-supplier=Digi-Key'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/8505/cbc2012t4r7m-ss-8505656.pdf?src-supplier=Avnet'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/8505/cbc2012t4r7m-ss-8505656.pdf?src-supplier=Avnet'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/8001/wound02-e-8001849.pdf?src-supplier=Element14'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/8001/wound02-e-8001849.pdf?src-supplier=Element14'
+PRP Composition 'Wirewound'
+PRP Core_Material 'Ferrite'
+PRP Current_Rating '520mA'
+PRP DC_Resistance_(DCR) '650mR'
+PRP Halogen_Free 'Halogen Free'
+PRP Height '1.25mm'
+PRP Height_-_Seated_(Max) '0.057inch'
+PRP Inductance '4.7uH'
+PRP Inductance_Tolerance '20%'
+PRP Lead_Free 'Exempt'
+PRP Length '0.079inch'
+PRP Manufacturer 'Taiyo Yuden'
+PRP Manufacturer_Part_Number 'CBC2012T4R7M'
+PRP Max_DC_Current '520mA'
+PRP Max_Operating_Temperature '105°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Pins '2'
+PRP Package_Quantity '3000'
+PRP Packaging 'Tape and Reel'
+PRP Pricing_1 '1=0.24000, 10=0.21600, 100=0.14860, 500=0.12702, 1000=0.09729 (USD)'
+PRP REACH_SVHC 'No SVHC'
+PRP RoHS 'Yes'
+PRP Saturation_Current '360mA'
+PRP Self_Resonant_Frequency '45MHz'
+PRP Shielding 'Unshielded'
+PRP Stock_1 '7720'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '587-1602-1-ND'
+PRP Termination 'SMD/SMT'
+PRP Test_Frequency '7.96MHz'
+PRP Tolerance '20%'
+PRP Value 'CBC2012T4R7M'
+PRP Width '0.049inch'
+TOP 0 0.4145512 0.626 270 N 59 2 L1-1
+TOP 1 0.4834488 0.626 270 N 57 0 L1-2
+#
+# CMP 62
+CMP 4 0.519 0.687 0 N C11 0.1_F ;0=1,1=0.0217
+PRP Category 'Capacitors'
+PRP ComponentLink1Description 'Datasheet (Internal)'
+PRP ComponentLink1URL 'datasheets\TDK\mlcc_automotive_general_en.pdf'
+PRP ComponentLink2Description 'Datasheet (External)'
+PRP ComponentLink2URL 'https://product.tdk.com/info/en/catalog/datasheets/mlcc_automotive_general_en.pdf'
+PRP Features '-'
+PRP Manufacturer 'TDK Corporation'
+PRP Manufacturer_Part_Number 'CGA2B1X7R1C104K050BC'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Package '0402'
+PRP Ratings 'AEC-Q200'
+PRP Substitution_Notes '0.1µF , 16V , ±10% , X7R , -55°C ~ 125°C , AEC-Q200 , 0402'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '445-5613-1-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Thickness_(Max) '0.55MM'
+PRP Tolerance '±10%'
+PRP Value '0.1µF'
+PRP Voltage_-_Rated '16V'
+TOP 0 0.4963622 0.687 270 N 60 21 C11-1
+TOP 1 0.5416378 0.687 270 N 59 0 C11-2
+#
+# CMP 63
+CMP 6 0.5 0.747 0 N C10 10_F ;0=1,1=0.0571
+PRP Category 'Capacitors'
+PRP ComponentLink1Description 'Datasheet (Internal)'
+PRP ComponentLink1URL 'datasheets\TDK\mlcc_automotive_general_en.pdf'
+PRP ComponentLink2Description 'Datasheet (External)'
+PRP ComponentLink2URL 'https://product.tdk.com/info/en/catalog/datasheets/mlcc_automotive_general_en.pdf'
+PRP Features '-'
+PRP Manufacturer 'TDK Corporation'
+PRP Manufacturer_Part_Number 'CGA4J1X7R0J106K125AC'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Package '0805'
+PRP Ratings 'AEC-Q200'
+PRP Substitution_Notes '10µF , 6.3V , ±10% , X7R , -55°C ~ 125°C , AEC-Q200 , 0805'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '445-6971-1-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Thickness_(Max) '1.45MM'
+PRP Tolerance '±10%'
+PRP Value '10µF'
+PRP Voltage_-_Rated '6.3V'
+TOP 0 0.4655512 0.747 270 N 60 22 C10-1
+TOP 1 0.5344488 0.747 270 N 59 1 C10-2
+#
+# CMP 64
+CMP 13 -0.0554331 0.747 270 N RESET B3U-1100P ;0=1,1=0.0472
+PRP Actuator_Height_off_PCB__from_Pins '1.60mm'
+PRP Actuator_Material '-'
+PRP Actuator_Orientation 'Top Actuated'
+PRP Actuator_Type 'Standard'
+PRP Category 'Switches'
+PRP CategorySort '700'
+PRP Circuit 'SPST-NO'
+PRP ComponentLink1Description 'http://www.components.omron.com/components/web/PDFLIB.nsf/0/2DD3893C7DD33E9E862572900079E9D6/$file/B3U_1110.pdf'
+PRP ComponentLink1URL 'http://www.components.omron.com/components/web/PDFLIB.nsf/0/2DD3893C7DD33E9E862572900079E9D6/$file/B3U_1110.pdf'
+PRP Contact_Rating_@_Voltage '0.05A @ 12VDC'
+PRP Features 'Grounding Pin'
+PRP Illumination 'Non-Illuminated'
+PRP Illumination_Type__Color '-'
+PRP Illumination_Voltage_(Nominal) '-'
+PRP Ingress_Protection 'Dust Proof'
+PRP Manufacturer 'Omron Electronics Inc-EMC Div'
+PRP Manufacturer_Part_Number 'B3U-1100P'
+PRP Mechanical_Life '200,000 Cycles'
+PRP Mounting_Type 'Surface Mount'
+PRP Operating_Force '153gf'
+PRP Operating_Temperature '-25°C ~ 70°C'
+PRP Outline '3.00mm x 2.50mm'
+PRP Packaging 'Cut Tape (CT)'
+PRP Pricing_1 '1=1.25, 10=1.201, 25=1.1332, 50=0.997, 100=0.9064, 250=0.86108, 500=0.83842, 1000=0.65714 (USD)'
+PRP RoHS 'RoHS Compliant'
+PRP Sort_Value ''
+PRP Stock_1 '45170'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'SW1021CT-ND'
+PRP Switch_Function 'Off-Mom'
+PRP Switch_Travel '0.15mm'
+PRP Termination_Style 'SMD (SMT) Tab'
+PRP Value 'B3U-1100P'
+TOP 0 -0.0554331 0.6800709 0 N 60 23 RESET-1
+TOP 1 -0.0554331 0.8139291 0 N 40 0 RESET-2
+TOP 2 0.0095275 0.747 0 N 60 24 RESET-S
+#
+# CMP 65
+CMP 1 1.1916851 1.152 180 N J2 USB_Micro_B ;0=1,1=0.0000
+PRP Category 'Connectors, Interconnects'
+PRP ComponentLink1Description 'http://portal.fciconnect.com/res/en/pdffiles/doc_search/10103594.pdf'
+PRP ComponentLink1URL 'http://portal.fciconnect.com/res/en/pdffiles/doc_search/10103594.pdf'
+PRP Connector_Type 'USB - micro B'
+PRP Features 'Shielded, Solder Retention'
+PRP Gender 'Receptacle'
+PRP Ingress_Protection '-'
+PRP Manufacturer 'FCI'
+PRP Manufacturer_Part_Number '10103594-0001LF'
+PRP Micro_USB_B 'Value'
+PRP Mounting_Type 'Surface Mount, Right Angle, Horizontal'
+PRP Notes 'Similar to'
+PRP Number_of_Contacts '5'
+PRP Packaging 'Cut Tape (CT)'
+PRP Pricing_1 '1=1.1, 10=0.768, 100=0.517, 250=0.43912, 500=0.41716 (USD)'
+PRP RoHS 'RoHS Compliant'
+PRP Specifications 'USB 2.0'
+PRP Stock_1 '23288'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '609-4050-1-ND'
+PRP Value 'USB Micro B'
+TOP 0 1.136567 1.1008189 180 N 58 2 J2-1
+TOP 1 1.136567 1.1264094 180 N 62 1 J2-2
+TOP 2 1.136567 1.152 180 N 61 1 J2-3
+TOP 3 1.136567 1.1775906 180 N 60 28 J2-4
+TOP 4 1.136567 1.2031811 180 N 60 27 J2-5
+TOP 5 1.2473937 1.2610551 180 N 60 12 J2-MOUNT
+TOP 6 1.2473937 1.0429449 180 N 60 13 J2-MOUNT
+TOP 7 1.1281024 1.0565276 180 N 60 14 J2-MOUNT
+TOP 8 1.1281024 1.2474724 180 N 60 15 J2-MOUNT
+TOP 9 1.2552677 1.1898937 90 N 60 29 J2-MOUNT
+TOP 10 1.2552677 1.1141063 90 N 60 30 J2-MOUNT
+TOP 11 1.1765276 1.0220787 90 N 60 31 J2-MOUNT
+TOP 12 1.1765276 1.2819213 90 N 60 32 J2-MOUNT
+#
+# CMP 66
+CMP 20 0.627 1.223 90 N U2 MCP1802T-3302I/OT ;0=1,1=0.0571
+PRP Accuracy '2%'
+PRP Case/Package 'SOT-23'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/41458/001085944-da-01-en-ic-reg-ld-mcp1802t-3302i-ot-sot-23-5-mcp-41458834.pdf?src-supplier=Conrad'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/41458/001085944-da-01-en-ic-reg-ld-mcp1802t-3302i-ot-sot-23-5-mcp-41458834.pdf?src-supplier=Conrad'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/2040/22053c-2040531.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/2040/22053c-2040531.pdf?src-supplier=Digi-Key'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/16454/filehandler-aspxddocname-en531342-16454309.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/16454/filehandler-aspxddocname-en531342-16454309.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/15200/getdatasheetpartid-626522-15200301.pdf?src-supplier=Verical'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/15200/getdatasheetpartid-626522-15200301.pdf?src-supplier=Verical'
+PRP ComponentLink5Description 'https://datasheet.ciiva.com/2040/22053c-2040529.pdf?src-supplier=Digi-Key'
+PRP ComponentLink5URL 'https://datasheet.ciiva.com/2040/22053c-2040529.pdf?src-supplier=Digi-Key'
+PRP ComponentLink6Description 'https://datasheet.ciiva.com/2040/22053c-2040530.pdf?src-supplier=Digi-Key'
+PRP ComponentLink6URL 'https://datasheet.ciiva.com/2040/22053c-2040530.pdf?src-supplier=Digi-Key'
+PRP ComponentLink7Description 'https://datasheet.ciiva.com/14562/70048283-14562246.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink7URL 'https://datasheet.ciiva.com/14562/70048283-14562246.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink8Description 'https://datasheet.ciiva.com/46395/808935-46395672.pdf?src-supplier=Element14'
+PRP ComponentLink8URL 'https://datasheet.ciiva.com/46395/808935-46395672.pdf?src-supplier=Element14'
+PRP ComponentLink9Description 'https://datasheet.ciiva.com/8239/jp531342-8239437.pdf?src-supplier=Avnet'
+PRP ComponentLink9URL 'https://datasheet.ciiva.com/8239/jp531342-8239437.pdf?src-supplier=Avnet'
+PRP Dropout_Voltage '200mV'
+PRP Height '0.051inch'
+PRP Input_Bias_Current '25uA'
+PRP Lead_Free 'Lead Free'
+PRP Length '0.122inch'
+PRP Manufacturer 'Microchip'
+PRP Manufacturer_Part_Number 'MCP1802T-3302I/OT'
+PRP Max_Input_Voltage '10V'
+PRP Max_Operating_Temperature '85°C'
+PRP Max_Output_Current '300mA'
+PRP Max_Power_Dissipation '250mW'
+PRP Min_Input_Voltage '2V'
+PRP Min_Operating_Temperature '-40°C'
+PRP Min_Output_Voltage '3.3V'
+PRP Mount 'Surface Mount'
+PRP Nominal_Output_Voltage '3.3V'
+PRP Number_of_Outputs '1'
+PRP Number_of_Pins '5'
+PRP Output_Current '300mA'
+PRP Output_Type 'Fixed'
+PRP Output_Voltage '3.3V'
+PRP Output_Voltage_Accuracy '2%'
+PRP Package_Quantity '3000'
+PRP Packaging 'Tape and Reel'
+PRP Polarity 'Positive'
+PRP Power_Dissipation '250mW'
+PRP Pricing_1 '1=0.53000, 25=0.44000, 100=0.40000 (USD)'
+PRP Quiescent_Current '50uA'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP RoHS 'Yes'
+PRP Stock_1 '3179'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'MCP1802T-3302I/OTCT-ND'
+PRP Value 'MCP1802T-3302I/OT'
+PRP Width '0.071inch'
+TOP 0 0.6644016 1.2672913 0 N 12 2 U2-1
+TOP 1 0.627 1.2672913 0 N 60 25 U2-2
+TOP 2 0.5895985 1.2672913 0 N 12 1 U2-3
+TOP 3 0.5895985 1.1787086 0 N 0 3 U2-4
+TOP 4 0.6644016 1.1787086 0 N 63 6 U2-5
+#
+# CMP 67
+CMP 2 0.7316851 0.818315 90 N U5 LPC55S69JEV98K ;0=1,1=0.0382
+PRP Manufacturer 'NXP Semiconductors'
+PRP Manufacturer_Part_Number 'LPC55S69JEV98K'
+PRP Pricing '1=6.94000, 10=6.27000, 25=5.98000, 100=5.19000, 250=4.96000, 500=4.52000 (USD)'
+PRP RoHS 'No'
+PRP Stock '2365'
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '771-LPC55S69JEV98K'
+PRP Value 'LPC55S69JEV98K'
+TOP 0 0.8497953 0.9364252 90 N 0 33 U5-A1
+TOP 1 0.8497953 0.9167402 90 N 0 32 U5-A2
+TOP 2 0.8497953 0.8970551 90 N 63 18 U5-A3
+TOP 3 0.8497953 0.8576851 90 N 63 19 U5-A5
+TOP 4 0.8497953 0.838 90 N 20 1 U5-A6
+TOP 5 0.8497953 0.818315 90 N 39 3 U5-A7
+TOP 6 0.8497953 0.7986299 90 N 32 1 U5-A8
+TOP 7 0.8497953 0.7789449 90 N 63 20 U5-A9
+TOP 8 0.8497953 0.7395748 90 N 17 1 U5-A11
+TOP 9 0.8497953 0.7198898 90 N 2 1 U5-A12
+TOP 10 0.8497953 0.7002047 90 N 63 21 U5-A13
+TOP 11 0.8301103 0.9364252 90 N 60 58 U5-B1
+TOP 12 0.8301103 0.9167402 90 N 28 1 U5-B2
+TOP 13 0.8301103 0.8970551 90 N 21 2 U5-B3
+TOP 14 0.8301103 0.8576851 90 N 60 59 U5-B5
+TOP 15 0.8301103 0.838 90 N 0 31 U5-B6
+TOP 16 0.8301103 0.818315 90 N 43 1 U5-B7
+TOP 17 0.8301103 0.7986299 90 N 0 30 U5-B8
+TOP 18 0.8301103 0.7789449 90 N 60 60 U5-B9
+TOP 19 0.8301103 0.7395748 90 N 41 1 U5-B11
+TOP 20 0.8301103 0.7198898 90 N 0 29 U5-B12
+TOP 21 0.8301103 0.7002047 90 N 60 61 U5-B13
+TOP 22 0.8104252 0.9364252 90 N 0 28 U5-C1
+TOP 23 0.8104252 0.9167402 90 N 0 27 U5-C2
+TOP 24 0.8104252 0.818315 90 N 19 1 U5-C7
+TOP 25 0.8104252 0.7198898 90 N 37 1 U5-C12
+TOP 26 0.8104252 0.7002047 90 N 38 1 U5-C13
+TOP 27 0.7710552 0.9364252 90 N 0 26 U5-E1
+TOP 28 0.7710552 0.9167402 90 N 50 1 U5-E2
+TOP 29 0.7710552 0.8576851 90 N 23 1 U5-E5
+TOP 30 0.7710552 0.838 90 N 0 25 U5-E6
+TOP 31 0.7710552 0.818315 90 N 0 24 U5-E7
+TOP 32 0.7710552 0.7986299 90 N 42 1 U5-E8
+TOP 33 0.7710552 0.7789449 90 N 0 23 U5-E9
+TOP 34 0.7710552 0.7198898 90 N 18 1 U5-E12
+TOP 35 0.7710552 0.7002047 90 N 27 1 U5-E13
+TOP 36 0.7513701 0.9364252 90 N 51 1 U5-F1
+TOP 37 0.7513701 0.9167402 90 N 49 1 U5-F2
+TOP 38 0.7513701 0.8576851 90 N 0 22 U5-F5
+TOP 39 0.7513701 0.838 90 N 0 21 U5-F6
+TOP 40 0.7513701 0.7986299 90 N 42 2 U5-F8
+TOP 41 0.7513701 0.7789449 90 N 0 20 U5-F9
+TOP 42 0.7513701 0.7198898 90 N 0 19 U5-F12
+TOP 43 0.7513701 0.7002047 90 N 47 1 U5-F13
+TOP 44 0.7316851 0.9364252 90 N 54 3 U5-G1
+TOP 45 0.7316851 0.9167402 90 N 54 4 U5-G2
+TOP 46 0.7316851 0.8970551 90 N 0 18 U5-G3
+TOP 47 0.7316851 0.8576851 90 N 0 17 U5-G5
+TOP 48 0.7316851 0.838 90 N 0 16 U5-G6
+TOP 49 0.7316851 0.7986299 90 N 0 15 U5-G8
+TOP 50 0.7316851 0.7789449 90 N 0 14 U5-G9
+TOP 51 0.7316851 0.7395748 90 N 46 1 U5-G11
+TOP 52 0.7316851 0.7198898 90 N 44 1 U5-G12
+TOP 53 0.7316851 0.7002047 90 N 48 1 U5-G13
+TOP 54 0.712 0.9364252 90 N 60 62 U5-H1
+TOP 55 0.712 0.9167402 90 N 60 63 U5-H2
+TOP 56 0.712 0.8576851 90 N 15 1 U5-H5
+TOP 57 0.712 0.838 90 N 0 13 U5-H6
+TOP 58 0.712 0.7986299 90 N 24 1 U5-H8
+TOP 59 0.712 0.7789449 90 N 0 12 U5-H9
+TOP 60 0.712 0.7198898 90 N 45 1 U5-H12
+TOP 61 0.712 0.7002047 90 N 35 1 U5-H13
+TOP 62 0.692315 0.9364252 90 N 1 1 U5-J1
+TOP 63 0.692315 0.9167402 90 N 36 1 U5-J2
+TOP 64 0.692315 0.8576851 90 N 0 11 U5-J5
+TOP 65 0.692315 0.838 90 N 40 3 U5-J6
+TOP 66 0.692315 0.818315 90 N 0 10 U5-J7
+TOP 67 0.692315 0.7986299 90 N 0 9 U5-J8
+TOP 68 0.692315 0.7789449 90 N 26 1 U5-J9
+TOP 69 0.692315 0.7198898 90 N 0 8 U5-J12
+TOP 70 0.692315 0.7002047 90 N 0 7 U5-J13
+TOP 71 0.6529449 0.9364252 90 N 29 1 U5-L1
+TOP 72 0.6529449 0.9167402 90 N 31 1 U5-L2
+TOP 73 0.6529449 0.818315 90 N 0 6 U5-L7
+TOP 74 0.6529449 0.7198898 90 N 4 1 U5-L12
+TOP 75 0.6529449 0.7002047 90 N 3 1 U5-L13
+TOP 76 0.6332599 0.9364252 90 N 63 22 U5-M1
+TOP 77 0.6332599 0.9167402 90 N 0 5 U5-M2
+TOP 78 0.6332599 0.8970551 90 N 52 2 U5-M3
+TOP 79 0.6332599 0.8576851 90 N 16 1 U5-M5
+TOP 80 0.6332599 0.838 90 N 55 0 U5-M6
+TOP 81 0.6332599 0.818315 90 N 0 4 U5-M7
+TOP 82 0.6332599 0.7986299 90 N 34 1 U5-M8
+TOP 83 0.6332599 0.7789449 90 N 59 3 U5-M9
+TOP 84 0.6332599 0.7395748 90 N 60 64 U5-M11
+TOP 85 0.6332599 0.7198898 90 N 60 65 U5-M12
+TOP 86 0.6332599 0.7002047 90 N 63 23 U5-M13
+TOP 87 0.6135748 0.9364252 90 N 60 66 U5-N1
+TOP 88 0.6135748 0.9167402 90 N 30 1 U5-N2
+TOP 89 0.6135748 0.8970551 90 N 53 2 U5-N3
+TOP 90 0.6135748 0.8576851 90 N 60 67 U5-N5
+TOP 91 0.6135748 0.838 90 N 56 0 U5-N6
+TOP 92 0.6135748 0.818315 90 N 63 24 U5-N7
+TOP 93 0.6135748 0.7986299 90 N 22 1 U5-N8
+TOP 94 0.6135748 0.7789449 90 N 59 4 U5-N9
+TOP 95 0.6135748 0.7395748 90 N 57 1 U5-N11
+TOP 96 0.6135748 0.7198898 90 N 60 68 U5-N12
+TOP 97 0.6135748 0.7002047 90 N 63 25 U5-N13
+#
+# CMP 68
+CMP 21 1.4382913 0.7424331 270 N U6 SPH0645LM4H-B ;0=1,1=0.0630
+PRP ComponentLink1Description 'http://www.knowles.com/eng/content/download/5988/105771/version/4/file/SPH0645LM4H-BRevB.PDF'
+PRP ComponentLink1URL 'http://www.knowles.com/eng/content/download/5988/105771/version/4/file/SPH0645LM4H-BRevB.PDF'
+PRP ComponentLink2Description 'https://media.digikey.com/pdf/Data%20Sheets/Knowles%20Acoustics%20PDFs/SPH0645LM4H-B.pdf'
+PRP ComponentLink2URL 'https://media.digikey.com/pdf/Data%20Sheets/Knowles%20Acoustics%20PDFs/SPH0645LM4H-B.pdf'
+PRP Direction 'Omnidirectional'
+PRP Height '1.08mm'
+PRP Length '3.5mm'
+PRP Manufacturer 'Knowles Acoustics'
+PRP Manufacturer_Part_Number 'SPH0645LM4H-B'
+PRP Operating_Supply_Current '600uA'
+PRP Output_Type 'Digital'
+PRP Packaging 'Tape and Reel'
+PRP Pricing_1 '1=2.97, 10=2.357, 25=2.1448, 50=2.0076, 100=1.8704, 250=1.70832, 500=1.58364, 1000=1.5587 (USD)'
+PRP Shape 'Rectangular'
+PRP Stock_1 '13538'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '423-1405-1-ND'
+PRP Termination 'Solder'
+PRP Value 'SPH0645LM4H-B'
+PRP Voltage_Rating '1.8V'
+PRP Width '2.65mm'
+TOP 0 1.3566378 0.707 270 N 41 0 U6-1
+TOP 1 1.389 0.707 270 N 60 33 U6-2
+TOP 2 1.4382913 0.7129055 270 N 60 34 U6-3
+TOP 3 1.389 0.7778662 270 N 43 0 U6-4
+TOP 4 1.3566378 0.7778662 270 N 63 8 U6-5
+TOP 5 1.3566378 0.7424331 270 N 42 0 U6-6
+TOP 6 1.4382913 0.7424331 270 N 0 2 U6-PORT_HOLE
+#

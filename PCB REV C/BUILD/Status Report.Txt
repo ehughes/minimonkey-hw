@@ -1,13 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 9:42:24 AM On 11/23/2020
+Start Output Generation At 10:22:37 PM On 12/21/2020
 
-Output: MACROFAB BOM
+Output: CCA Assembly BOM
 Type  : BOM
 From  : Variant [C] of Project [LPC55S69_MINI [C].PrjPcb]
+   Generated File[LPC55S69_MINI-[C] Assembly BOM.xlsx]
 
 
-Files Generated   : 0
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 9:42:29 AM On 11/23/2020
+Finished Output Generation At 10:22:47 PM On 12/21/2020
