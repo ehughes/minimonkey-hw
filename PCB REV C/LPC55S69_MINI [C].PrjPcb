@@ -23,16 +23,29 @@ DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
+AutoSheetNumbering=0
+AutoCrossReferences=0
+NewIndexingOfSheetSymbols=1
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
+IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=Project Outputs for ARL_ANSI_D
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=CF3F38A7-8750-411C-8FD5-8B42C0595A56
+VaultGUID=369AD0F2-69E1-475C-957B-D3B6909ED6F2
+ReleaseVaultName=Wavenumber LLC
+ItemGUID=CF3F38A7-8750-411C-8FD5-8B42C0595A56
 Template=C:\Users\ehugh\OneDrive - TZero Research and Development\eLibraries\Templates\Project\2 Layer TZERO Skeleton Project.PrjPcb
 IncludeDesignInRelease=0
+CrossRefSheetStyle=1
+CrossRefLocationStyle=1
+CrossRefPorts=3
+CrossRefCrossSheets=1
+CrossRefSheetEntries=0
+CrossRefFollowFromMainSettings=1
 
 [Preferences]
 PrefsVaultGUID=
@@ -87,7 +100,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CDQFVBJL
 
 [Document4]
 DocumentPath=LPC55S69_MINI.BomDoc
@@ -121,7 +134,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JUEDEWHP
 
 [Document6]
 DocumentPath=LPC55S69_MINI [C].PCBdoc
@@ -157,164 +170,164 @@ DocumentPath=BUILD\LPC55S69_MINI-[C]\LPC55S69_MINI-[C] Pick-Place.txt
 DItemRevisionGUID=
 
 [Parameter1]
-Name=SCH_DATE
-Value=2012-11-25
+Name=APPROVAL_APPROVED_1
+Value=-
 
 [Parameter2]
-Name=PROJECT_TITLE_LINE_1
-Value=LPC55S69_MINI
-
-[Parameter3]
-Name=PROJECT_STATUS
-Value=PROTOTYPE
-
-[Parameter4]
-Name=PROJECT_ENGINEER
-Value=E. Hughes
-
-[Parameter5]
-Name=PCB_VERSION
-Value=C
-
-[Parameter6]
-Name=PCB_TITLE
-Value=LPC55S69_MINI
-
-[Parameter7]
-Name=PCB_SOLDER_MASK_COLOR_TOP
-Value=GREEN
-
-[Parameter8]
-Name=PCB_SOLDER_MASK_COLOR_BOTTOM
-Value=GREEN
-
-[Parameter9]
-Name=PCB_SILKSCREEN_COLOR_TOP
-Value=WHITE
-
-[Parameter10]
-Name=PCB_SILKSCREEN_COLOR_BOTTOM
-Value=WHITE
-
-[Parameter11]
-Name=PCB_PRINTOUT_SCALE
-Value=1:1
-
-[Parameter12]
-Name=PCB_PART_NUMBER
-Value=LPC55S69_MINI
-
-[Parameter13]
-Name=PCB_MIN_TRACE_WIDTH
-Value=6mil
-
-[Parameter14]
-Name=PCB_MIN_TRACE_SPACE
-Value=6mil
-
-[Parameter15]
-Name=PCB_MIN_DRILL
-Value=12mil
-
-[Parameter16]
-Name=PCB_MATERIAL
-Value=FR4
-
-[Parameter17]
-Name=PCB_LAYERS
-Value=2
-
-[Parameter18]
-Name=PCB_FINISH_PLATING
-Value=GOLD ENIG
-
-[Parameter19]
-Name=PCB_FINISHED_THICKNESS
-Value=62.5mil
-
-[Parameter20]
-Name=PCB_DRC_DATE
-Value=X
-
-[Parameter21]
-Name=PCB_COPPER_WEIGHT_OUTER
-Value=1oz
-
-[Parameter22]
-Name=PCB_COPPER_WEIGHT_INNER
-Value=1oz
-
-[Parameter23]
-Name=CCA_TITLE
-Value=LPC55S69_MINI
-
-[Parameter24]
-Name=CCA_PART_NUMBER
-Value=LPC55S69_MINI
-
-[Parameter25]
-Name=BOM_NOTES_LINE_4
-Value=-
-
-[Parameter26]
-Name=BOM_NOTES_LINE_3
-Value=-
-
-[Parameter27]
-Name=BOM_NOTES_LINE_2
-Value=-
-
-[Parameter28]
-Name=BOM_NOTES_LINE_1
-Value=-
-
-[Parameter29]
-Name=APPROVAL_REVIEWED_DATE
-Value=-
-
-[Parameter30]
-Name=APPROVAL_REVIEWED
-Value=-
-
-[Parameter31]
-Name=APPROVAL_ENGINEER_DATE
-Value=-
-
-[Parameter32]
-Name=APPROVAL_ENGINEER
-Value=-
-
-[Parameter33]
-Name=APPROVAL_DRAWN_DATE
-Value=-
-
-[Parameter34]
-Name=APPROVAL_DRAWN
-Value=-
-
-[Parameter35]
-Name=APPROVAL_CHECKED_DATE
-Value=-
-
-[Parameter36]
-Name=APPROVAL_CHECKED
-Value=
-
-[Parameter37]
-Name=APPROVAL_APPROVED_2_DATE
-Value=-
-
-[Parameter38]
-Name=APPROVAL_APPROVED_2
-Value=-
-
-[Parameter39]
 Name=APPROVAL_APPROVED_1_DATE
 Value=-
 
-[Parameter40]
-Name=APPROVAL_APPROVED_1
+[Parameter3]
+Name=APPROVAL_APPROVED_2
 Value=-
+
+[Parameter4]
+Name=APPROVAL_APPROVED_2_DATE
+Value=-
+
+[Parameter5]
+Name=APPROVAL_CHECKED
+Value=
+
+[Parameter6]
+Name=APPROVAL_CHECKED_DATE
+Value=-
+
+[Parameter7]
+Name=APPROVAL_DRAWN
+Value=-
+
+[Parameter8]
+Name=APPROVAL_DRAWN_DATE
+Value=-
+
+[Parameter9]
+Name=APPROVAL_ENGINEER
+Value=-
+
+[Parameter10]
+Name=APPROVAL_ENGINEER_DATE
+Value=-
+
+[Parameter11]
+Name=APPROVAL_REVIEWED
+Value=-
+
+[Parameter12]
+Name=APPROVAL_REVIEWED_DATE
+Value=-
+
+[Parameter13]
+Name=BOM_NOTES_LINE_1
+Value=-
+
+[Parameter14]
+Name=BOM_NOTES_LINE_2
+Value=-
+
+[Parameter15]
+Name=BOM_NOTES_LINE_3
+Value=-
+
+[Parameter16]
+Name=BOM_NOTES_LINE_4
+Value=-
+
+[Parameter17]
+Name=CCA_PART_NUMBER
+Value=LPC55S69_MINI
+
+[Parameter18]
+Name=CCA_TITLE
+Value=LPC55S69_MINI
+
+[Parameter19]
+Name=PCB_COPPER_WEIGHT_INNER
+Value=1oz
+
+[Parameter20]
+Name=PCB_COPPER_WEIGHT_OUTER
+Value=1oz
+
+[Parameter21]
+Name=PCB_DRC_DATE
+Value=X
+
+[Parameter22]
+Name=PCB_FINISH_PLATING
+Value=GOLD ENIG
+
+[Parameter23]
+Name=PCB_FINISHED_THICKNESS
+Value=62.5mil
+
+[Parameter24]
+Name=PCB_LAYERS
+Value=2
+
+[Parameter25]
+Name=PCB_MATERIAL
+Value=FR4
+
+[Parameter26]
+Name=PCB_MIN_DRILL
+Value=12mil
+
+[Parameter27]
+Name=PCB_MIN_TRACE_SPACE
+Value=6mil
+
+[Parameter28]
+Name=PCB_MIN_TRACE_WIDTH
+Value=6mil
+
+[Parameter29]
+Name=PCB_PART_NUMBER
+Value=LPC55S69_MINI
+
+[Parameter30]
+Name=PCB_PRINTOUT_SCALE
+Value=1:1
+
+[Parameter31]
+Name=PCB_SILKSCREEN_COLOR_BOTTOM
+Value=WHITE
+
+[Parameter32]
+Name=PCB_SILKSCREEN_COLOR_TOP
+Value=WHITE
+
+[Parameter33]
+Name=PCB_SOLDER_MASK_COLOR_BOTTOM
+Value=GREEN
+
+[Parameter34]
+Name=PCB_SOLDER_MASK_COLOR_TOP
+Value=GREEN
+
+[Parameter35]
+Name=PCB_TITLE
+Value=LPC55S69_MINI
+
+[Parameter36]
+Name=PCB_VERSION
+Value=C
+
+[Parameter37]
+Name=PROJECT_ENGINEER
+Value=E. Hughes
+
+[Parameter38]
+Name=PROJECT_STATUS
+Value=PROTOTYPE
+
+[Parameter39]
+Name=PROJECT_TITLE_LINE_1
+Value=LPC55S69_MINI
+
+[Parameter40]
+Name=SCH_DATE
+Value=2012-11-25
 
 [Configuration1]
 Name=Default Configuration
@@ -434,12 +447,22 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
+OutputType21=XSpiceNetlist
+OutputName21=Mixed Sim Netlist
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -524,6 +547,30 @@ OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType12=Harness Layout Drawing Print
+OutputName12=Harness Layout Drawing Prints
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType13=Harness Wiring Diagram Print
+OutputName13=Harness Wiring Diagram Prints
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType14=PCBDrawing
+OutputName14=Draftsman
+OutputDocumentPath14=
+OutputVariantName14=[No Variations]
+OutputDefault14=0
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType15=PCBDrawing
+OutputName15=Draftsman
+OutputDocumentPath15=
+OutputVariantName15=[No Variations]
+OutputDefault15=0
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -655,6 +702,24 @@ OutputName6=Report Single Pin Nets
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
+OutputType7=BOM_ReportCompare
+OutputName7=BOM Compare
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType8=Export Comments
+OutputName8=Export Comments
+OutputDocumentPath8=
+OutputVariantName8=[No Variations]
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType9=Project History
+OutputName9=Project History
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup7]
 Name=Other Outputs
@@ -868,6 +933,11 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Web ReviewOutputName
+OutputName12=Web Review Data
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1000,6 +1070,23 @@ Type116=1
 Type117=1
 Type118=1
 Type119=1
+Type120=1
+Type121=1
+Type122=1
+Type123=1
+Type124=1
+Type125=1
+Type126=1
+Type127=1
+Type128=1
+Type129=1
+Type130=1
+Type131=1
+Type132=1
+Type133=1
+Type134=1
+Type135=1
+Type136=1
 
 [Difference Levels]
 Type1=1
@@ -1070,6 +1157,12 @@ Type65=1
 Type66=1
 Type67=1
 Type68=1
+Type69=1
+Type70=1
+Type71=1
+Type72=1
+Type73=1
+Type74=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1191,10 +1284,38 @@ Type116=2
 Type117=3
 Type118=3
 Type119=3
-MultiChannelAlternate=2
+MultiChannelAlternate=0
 AlternateItemFail=3
 Type122=2
 Type123=1
+Type124=1
+Type125=1
+Type126=1
+Type127=1
+Type128=2
+Type129=2
+Type130=2
+Type131=2
+Type132=2
+Type133=2
+Type134=2
+Type135=2
+Type136=2
+Type137=2
+Type138=1
+Type139=1
+Type140=1
+Type141=1
+Type142=1
+Type143=1
+Type144=1
+Type145=1
+Type146=1
+Type147=2
+Type148=2
+Type149=2
+Type150=2
+Type151=2
 
 [ERC Connection Matrix]
 L1=WNNNNNNWNENEWNNEE
@@ -1402,12 +1523,12 @@ ComponentUpdate7=1
 ComponentIsDeviceSheet7=0
 
 [Comparison Options]
-ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
-ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
