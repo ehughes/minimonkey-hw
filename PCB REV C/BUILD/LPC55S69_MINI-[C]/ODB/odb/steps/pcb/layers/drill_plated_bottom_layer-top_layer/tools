@@ -61,13 +61,3 @@ TOOLS {
     DRILL_SIZE=70
 }
 
-TOOLS {
-    NUM=7
-    TYPE=NON_PLATED
-    MIN_TOL=0
-    MAX_TOL=0
-    BIT=
-    FINISH_SIZE=40
-    DRILL_SIZE=40
-}
-

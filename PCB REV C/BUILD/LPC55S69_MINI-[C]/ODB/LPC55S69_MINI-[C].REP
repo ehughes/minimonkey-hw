@@ -2,67 +2,83 @@
 FileName = LPC55S69_MINI [C].PCBdoc
 ODB++ directory structure
 *************************************************************
-Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\matrix\matrix
-
 Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\profile
 
 Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\stephdr
 
 Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\attrlist
 
+Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\dielectric_1\features
+
+Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\dielectric_1\attrlist
+
+Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\dielectric1\features
+
+Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\dielectric1\attrlist
+
+Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\features
+
+Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\attrlist
+
+Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\tools
+
+Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\dielectric_2\features
+
+Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\dielectric_2\attrlist
+
 Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\_8__board_outline\features
 
 Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\_8__board_outline\attrlist
 
-Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\bottom_overlay\features
+Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
 
-Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\bottom_overlay\attrlist
+Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\attrlist
 
-Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\keep-out_layer\features
-
-Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\keep-out_layer\attrlist
-
-Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\top_overlay\features
-
-Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\top_overlay\attrlist
-
-Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\gnd\features
-
-Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\gnd\attrlist
+Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
 
 Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\bottom_paste\features
 
 Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\bottom_paste\attrlist
 
-Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\pwr\features
+Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\bottom_overlay\features
 
-Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\pwr\attrlist
+Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\bottom_overlay\attrlist
 
 Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\bottom_solder\features
 
 Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\bottom_solder\attrlist
 
+Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\keep-out_layer\features
+
+Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\keep-out_layer\attrlist
+
+Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\pwr\features
+
+Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\pwr\attrlist
+
+Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\gnd\features
+
+Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\gnd\attrlist
+
 Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\bottom_layer\features
 
 Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\bottom_layer\attrlist
+
+Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\top_overlay\attrlist
 
 Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\top_paste\features
 
 Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\top_paste\attrlist
 
-Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\top_layer\features
-
-Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\top_layer\attrlist
-
 Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\top_solder\features
 
 Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\top_solder\attrlist
 
-Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\drill\features
+Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\top_layer\features
 
-Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\drill\attrlist
-
-Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\drill\tools
+Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\top_layer\attrlist
 
 Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\comp_+_bot\features
 
@@ -73,4 +89,6 @@ Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\
 Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\layers\comp_+_top\components
 
 Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\steps\pcb\eda\data
+
+Generated File : C:\ELI\minimonkey-hw\PCB REV C\BUILD\LPC55S69_MINI-[C]\ODB\odb\matrix\matrix
 

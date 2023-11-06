@@ -15,9 +15,9 @@ $2 rect13.7795x118.1102
 #
 #Feature attribute text strings
 #
-&0 SMD_RoundX66.9291Y31.4961
-&1 SMD_RoundX43.3071Y31.4961
-&2 SMD_RoundX13.7795Y118.1102
+&0 SMD_RectX66.9291Y31.4961
+&1 SMD_RectX43.3071Y31.4961
+&2 SMD_RectX13.7795Y118.1102
 
 #
 #Layer features

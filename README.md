@@ -16,9 +16,7 @@ The design files are in Altium v20 format.
 
 - Added SD/eMMC Storage
 - Fixed battery charger and added USB bypass.
-- Accidentally used p-ch on backlight control.  Need to fix in future revision.
-
-
+- Added RS-485 Interface 
 
 #### PCB REV B:
 

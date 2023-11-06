@@ -1,12 +1,42 @@
-Output: NC Drill Files
-Type  : NC Drill
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 3:07:27 PM On 11/6/2023
+
+Output: ODB++ Files
+Type  : ODB
 From  : PCB Document [LPC55S69_MINI [C].PCBdoc]
-   Generated File[LPC55S69_MINI-[C].TXT]
-   Generated File[LPC55S69_MINI-[C].LDP]
-   Generated File[LPC55S69_MINI-[C].DRR]
+   Generated File[profile]
+   Generated File[stephdr]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[components]
+   Generated File[features]
+   Generated File[components]
+   Generated File[data]
+   Generated File[netlist]
+   Generated File[matrix]
+   Generated File[LPC55S69_MINI-[C].REP]
 
 
-Files Generated   : 3
+Files Generated   : 29
 Documents Printed : 0
 
-Finished Output Generation At 10:18:14 PM On 12/21/2020
+Finished Output Generation At 3:07:30 PM On 11/6/2023
